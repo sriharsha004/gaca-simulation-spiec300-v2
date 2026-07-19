@@ -1,0 +1,822 @@
+customer_service::0000 no_temporal        pred=1 true=1
+customer_service::0000 no_prereq          pred=10 true=1
+customer_service::0000 no_rules           pred=1 true=1
+customer_service::0000 alpha_0_0          pred=1 true=1
+customer_service::0000 no_profile_anchor  pred=10 true=1
+customer_service::0020 no_temporal        pred=22 true=22
+customer_service::0020 no_prereq          pred=22 true=22
+customer_service::0020 no_rules           pred=22 true=22
+customer_service::0020 alpha_0_0          pred=22 true=22
+customer_service::0020 no_profile_anchor  pred=22 true=22
+customer_service::0040 no_temporal        pred=19 true=19
+customer_service::0040 no_prereq          pred=19 true=19
+customer_service::0040 no_rules           pred=19 true=19
+customer_service::0040 alpha_0_0          pred=21 true=19
+customer_service::0040 no_profile_anchor  pred=19 true=19
+customer_service::0060 no_temporal        pred=19 true=16
+customer_service::0060 no_prereq          pred=19 true=16
+customer_service::0060 no_rules           pred=19 true=16
+customer_service::0060 alpha_0_0          pred=19 true=16
+customer_service::0060 no_profile_anchor  pred=19 true=16
+customer_service::0080 no_temporal        pred=13 true=13
+customer_service::0080 no_prereq          pred=19 true=13
+customer_service::0080 no_rules           pred=19 true=13
+customer_service::0080 alpha_0_0          pred=13 true=13
+customer_service::0080 no_profile_anchor  pred=13 true=13
+customer_service::0001 no_temporal        pred=19 true=2
+customer_service::0001 no_prereq          pred=19 true=2
+customer_service::0001 no_rules           pred=19 true=2
+customer_service::0001 alpha_0_0          pred=19 true=2
+customer_service::0001 no_profile_anchor  pred=19 true=2
+customer_service::0021 no_temporal        pred=22 true=23
+customer_service::0021 no_prereq          pred=11 true=23
+customer_service::0021 no_rules           pred=11 true=23
+customer_service::0021 alpha_0_0          pred=16 true=23
+customer_service::0021 no_profile_anchor  pred=16 true=23
+customer_service::0041 no_temporal        pred=20 true=20
+customer_service::0041 no_prereq          pred=20 true=20
+customer_service::0041 no_rules           pred=20 true=20
+customer_service::0041 alpha_0_0          pred=20 true=20
+customer_service::0041 no_profile_anchor  pred=20 true=20
+customer_service::0061 no_temporal        pred=11 true=17
+customer_service::0061 no_prereq          pred=11 true=17
+customer_service::0061 no_rules           pred=19 true=17
+customer_service::0061 alpha_0_0          pred=19 true=17
+customer_service::0061 no_profile_anchor  pred=6 true=17
+customer_service::0081 no_temporal        pred=14 true=14
+customer_service::0081 no_prereq          pred=12 true=14
+customer_service::0081 no_rules           pred=12 true=14
+customer_service::0081 alpha_0_0          pred=14 true=14
+customer_service::0081 no_profile_anchor  pred=12 true=14
+customer_service::0002 no_temporal        pred=3 true=3
+customer_service::0002 no_prereq          pred=3 true=3
+customer_service::0002 no_rules           pred=19 true=3
+customer_service::0002 alpha_0_0          pred=3 true=3
+customer_service::0002 no_profile_anchor  pred=3 true=3
+customer_service::0022 no_temporal        pred=24 true=24
+customer_service::0022 no_prereq          pred=24 true=24
+customer_service::0022 no_rules           pred=24 true=24
+customer_service::0022 alpha_0_0          pred=24 true=24
+customer_service::0022 no_profile_anchor  pred=24 true=24
+customer_service::0042 no_temporal        pred=19 true=21
+customer_service::0042 no_prereq          pred=19 true=21
+customer_service::0042 no_rules           pred=19 true=21
+customer_service::0042 alpha_0_0          pred=19 true=21
+customer_service::0042 no_profile_anchor  pred=19 true=21
+customer_service::0062 no_temporal        pred=18 true=18
+customer_service::0062 no_prereq          pred=19 true=18
+customer_service::0062 no_rules           pred=19 true=18
+customer_service::0062 alpha_0_0          pred=18 true=18
+customer_service::0062 no_profile_anchor  pred=18 true=18
+customer_service::0082 no_temporal        pred=11 true=15
+customer_service::0082 no_prereq          pred=15 true=15
+customer_service::0082 no_rules           pred=24 true=15
+customer_service::0082 alpha_0_0          pred=15 true=15
+customer_service::0082 no_profile_anchor  pred=6 true=15
+customer_service::0003 no_temporal        pred=4 true=4
+customer_service::0003 no_prereq          pred=4 true=4
+customer_service::0003 no_rules           pred=19 true=4
+customer_service::0003 alpha_0_0          pred=4 true=4
+customer_service::0003 no_profile_anchor  pred=4 true=4
+customer_service::0023 no_temporal        pred=1 true=1
+customer_service::0023 no_prereq          pred=9 true=1
+customer_service::0023 no_rules           pred=1 true=1
+customer_service::0023 alpha_0_0          pred=9 true=1
+customer_service::0023 no_profile_anchor  pred=10 true=1
+customer_service::0043 no_temporal        pred=19 true=22
+customer_service::0043 no_prereq          pred=22 true=22
+customer_service::0043 no_rules           pred=22 true=22
+customer_service::0043 alpha_0_0          pred=19 true=22
+customer_service::0043 no_profile_anchor  pred=19 true=22
+customer_service::0063 no_temporal        pred=19 true=19
+customer_service::0063 no_prereq          pred=19 true=19
+customer_service::0063 no_rules           pred=19 true=19
+customer_service::0063 alpha_0_0          pred=19 true=19
+customer_service::0063 no_profile_anchor  pred=19 true=19
+customer_service::0083 no_temporal        pred=19 true=16
+customer_service::0083 no_prereq          pred=19 true=16
+customer_service::0083 no_rules           pred=19 true=16
+customer_service::0083 alpha_0_0          pred=19 true=16
+customer_service::0083 no_profile_anchor  pred=19 true=16
+customer_service::0004 no_temporal        pred=6 true=6
+customer_service::0004 no_prereq          pred=6 true=6
+customer_service::0004 no_rules           pred=6 true=6
+customer_service::0004 alpha_0_0          pred=6 true=6
+customer_service::0004 no_profile_anchor  pred=6 true=6
+customer_service::0024 no_temporal        pred=19 true=2
+customer_service::0024 no_prereq          pred=19 true=2
+customer_service::0024 no_rules           pred=19 true=2
+customer_service::0024 alpha_0_0          pred=19 true=2
+customer_service::0024 no_profile_anchor  pred=2 true=2
+customer_service::0044 no_temporal        pred=23 true=23
+customer_service::0044 no_prereq          pred=23 true=23
+customer_service::0044 no_rules           pred=22 true=23
+customer_service::0044 alpha_0_0          pred=23 true=23
+customer_service::0044 no_profile_anchor  pred=23 true=23
+customer_service::0064 no_temporal        pred=20 true=20
+customer_service::0064 no_prereq          pred=20 true=20
+customer_service::0064 no_rules           pred=20 true=20
+customer_service::0064 alpha_0_0          pred=20 true=20
+customer_service::0064 no_profile_anchor  pred=20 true=20
+customer_service::0084 no_temporal        pred=11 true=17
+customer_service::0084 no_prereq          pred=19 true=17
+customer_service::0084 no_rules           pred=11 true=17
+customer_service::0084 alpha_0_0          pred=21 true=17
+customer_service::0084 no_profile_anchor  pred=6 true=17
+customer_service::0005 no_temporal        pred=12 true=7
+customer_service::0005 no_prereq          pred=12 true=7
+customer_service::0005 no_rules           pred=12 true=7
+customer_service::0005 alpha_0_0          pred=12 true=7
+customer_service::0005 no_profile_anchor  pred=12 true=7
+customer_service::0025 no_temporal        pred=3 true=3
+customer_service::0025 no_prereq          pred=3 true=3
+customer_service::0025 no_rules           pred=19 true=3
+customer_service::0025 alpha_0_0          pred=3 true=3
+customer_service::0025 no_profile_anchor  pred=3 true=3
+customer_service::0045 no_temporal        pred=24 true=24
+customer_service::0045 no_prereq          pred=24 true=24
+customer_service::0045 no_rules           pred=24 true=24
+customer_service::0045 alpha_0_0          pred=24 true=24
+customer_service::0045 no_profile_anchor  pred=24 true=24
+customer_service::0065 no_temporal        pred=19 true=21
+customer_service::0065 no_prereq          pred=19 true=21
+customer_service::0065 no_rules           pred=19 true=21
+customer_service::0065 alpha_0_0          pred=19 true=21
+customer_service::0065 no_profile_anchor  pred=19 true=21
+customer_service::0085 no_temporal        pred=19 true=18
+customer_service::0085 no_prereq          pred=19 true=18
+customer_service::0085 no_rules           pred=19 true=18
+customer_service::0085 alpha_0_0          pred=19 true=18
+customer_service::0085 no_profile_anchor  pred=19 true=18
+customer_service::0006 no_temporal        pred=24 true=8
+customer_service::0006 no_prereq          pred=19 true=8
+customer_service::0006 no_rules           pred=24 true=8
+customer_service::0006 alpha_0_0          pred=19 true=8
+customer_service::0006 no_profile_anchor  pred=12 true=8
+customer_service::0026 no_temporal        pred=4 true=4
+customer_service::0026 no_prereq          pred=4 true=4
+customer_service::0026 no_rules           pred=19 true=4
+customer_service::0026 alpha_0_0          pred=4 true=4
+customer_service::0026 no_profile_anchor  pred=4 true=4
+customer_service::0046 no_temporal        pred=9 true=1
+customer_service::0046 no_prereq          pred=9 true=1
+customer_service::0046 no_rules           pred=9 true=1
+customer_service::0046 alpha_0_0          pred=9 true=1
+customer_service::0046 no_profile_anchor  pred=9 true=1
+customer_service::0066 no_temporal        pred=22 true=22
+customer_service::0066 no_prereq          pred=22 true=22
+customer_service::0066 no_rules           pred=22 true=22
+customer_service::0066 alpha_0_0          pred=22 true=22
+customer_service::0066 no_profile_anchor  pred=22 true=22
+customer_service::0086 no_temporal        pred=19 true=19
+customer_service::0086 no_prereq          pred=19 true=19
+customer_service::0086 no_rules           pred=19 true=19
+customer_service::0086 alpha_0_0          pred=19 true=19
+customer_service::0086 no_profile_anchor  pred=19 true=19
+customer_service::0007 no_temporal        pred=9 true=9
+customer_service::0007 no_prereq          pred=1 true=9
+customer_service::0007 no_rules           pred=1 true=9
+customer_service::0007 alpha_0_0          pred=1 true=9
+customer_service::0007 no_profile_anchor  pred=1 true=9
+customer_service::0027 no_temporal        pred=6 true=6
+customer_service::0027 no_prereq          pred=6 true=6
+customer_service::0027 no_rules           pred=6 true=6
+customer_service::0027 alpha_0_0          pred=6 true=6
+customer_service::0027 no_profile_anchor  pred=6 true=6
+customer_service::0047 no_temporal        pred=2 true=2
+customer_service::0047 no_prereq          pred=19 true=2
+customer_service::0047 no_rules           pred=2 true=2
+customer_service::0047 alpha_0_0          pred=19 true=2
+customer_service::0047 no_profile_anchor  pred=2 true=2
+customer_service::0067 no_temporal        pred=11 true=23
+customer_service::0067 no_prereq          pred=11 true=23
+customer_service::0067 no_rules           pred=11 true=23
+customer_service::0067 alpha_0_0          pred=11 true=23
+customer_service::0067 no_profile_anchor  pred=18 true=23
+customer_service::0087 no_temporal        pred=20 true=20
+customer_service::0087 no_prereq          pred=20 true=20
+customer_service::0087 no_rules           pred=20 true=20
+customer_service::0087 alpha_0_0          pred=20 true=20
+customer_service::0087 no_profile_anchor  pred=20 true=20
+customer_service::0008 no_temporal        pred=10 true=10
+customer_service::0008 no_prereq          pred=10 true=10
+customer_service::0008 no_rules           pred=10 true=10
+customer_service::0008 alpha_0_0          pred=11 true=10
+customer_service::0008 no_profile_anchor  pred=10 true=10
+customer_service::0028 no_temporal        pred=20 true=7
+customer_service::0028 no_prereq          pred=12 true=7
+customer_service::0028 no_rules           pred=12 true=7
+customer_service::0028 alpha_0_0          pred=12 true=7
+customer_service::0028 no_profile_anchor  pred=12 true=7
+customer_service::0048 no_temporal        pred=3 true=3
+customer_service::0048 no_prereq          pred=3 true=3
+customer_service::0048 no_rules           pred=19 true=3
+customer_service::0048 alpha_0_0          pred=3 true=3
+customer_service::0048 no_profile_anchor  pred=3 true=3
+customer_service::0068 no_temporal        pred=24 true=24
+customer_service::0068 no_prereq          pred=24 true=24
+customer_service::0068 no_rules           pred=24 true=24
+customer_service::0068 alpha_0_0          pred=24 true=24
+customer_service::0068 no_profile_anchor  pred=24 true=24
+customer_service::0088 no_temporal        pred=19 true=21
+customer_service::0088 no_prereq          pred=19 true=21
+customer_service::0088 no_rules           pred=19 true=21
+customer_service::0088 alpha_0_0          pred=19 true=21
+customer_service::0088 no_profile_anchor  pred=19 true=21
+customer_service::0009 no_temporal        pred=11 true=11
+customer_service::0009 no_prereq          pred=11 true=11
+customer_service::0009 no_rules           pred=11 true=11
+customer_service::0009 alpha_0_0          pred=11 true=11
+customer_service::0009 no_profile_anchor  pred=11 true=11
+customer_service::0029 no_temporal        pred=11 true=8
+customer_service::0029 no_prereq          pred=3 true=8
+customer_service::0029 no_rules           pred=11 true=8
+customer_service::0029 alpha_0_0          pred=11 true=8
+customer_service::0029 no_profile_anchor  pred=12 true=8
+customer_service::0049 no_temporal        pred=4 true=4
+customer_service::0049 no_prereq          pred=4 true=4
+customer_service::0049 no_rules           pred=19 true=4
+customer_service::0049 alpha_0_0          pred=4 true=4
+customer_service::0049 no_profile_anchor  pred=4 true=4
+customer_service::0069 no_temporal        pred=9 true=1
+customer_service::0069 no_prereq          pred=9 true=1
+customer_service::0069 no_rules           pred=1 true=1
+customer_service::0069 alpha_0_0          pred=9 true=1
+customer_service::0069 no_profile_anchor  pred=9 true=1
+customer_service::0089 no_temporal        pred=19 true=22
+customer_service::0089 no_prereq          pred=19 true=22
+customer_service::0089 no_rules           pred=19 true=22
+customer_service::0089 alpha_0_0          pred=19 true=22
+customer_service::0089 no_profile_anchor  pred=19 true=22
+customer_service::0010 no_temporal        pred=12 true=12
+customer_service::0010 no_prereq          pred=12 true=12
+customer_service::0010 no_rules           pred=24 true=12
+customer_service::0010 alpha_0_0          pred=24 true=12
+customer_service::0010 no_profile_anchor  pred=12 true=12
+customer_service::0030 no_temporal        pred=9 true=9
+customer_service::0030 no_prereq          pred=9 true=9
+customer_service::0030 no_rules           pred=9 true=9
+customer_service::0030 alpha_0_0          pred=9 true=9
+customer_service::0030 no_profile_anchor  pred=9 true=9
+customer_service::0050 no_temporal        pred=6 true=6
+customer_service::0050 no_prereq          pred=6 true=6
+customer_service::0050 no_rules           pred=6 true=6
+customer_service::0050 alpha_0_0          pred=6 true=6
+customer_service::0050 no_profile_anchor  pred=6 true=6
+customer_service::0070 no_temporal        pred=19 true=2
+customer_service::0070 no_prereq          pred=19 true=2
+customer_service::0070 no_rules           pred=19 true=2
+customer_service::0070 alpha_0_0          pred=19 true=2
+customer_service::0070 no_profile_anchor  pred=19 true=2
+customer_service::0090 no_temporal        pred=21 true=23
+customer_service::0090 no_prereq          pred=11 true=23
+customer_service::0090 no_rules           pred=11 true=23
+customer_service::0090 alpha_0_0          pred=11 true=23
+customer_service::0090 no_profile_anchor  pred=16 true=23
+customer_service::0011 no_temporal        pred=13 true=13
+customer_service::0011 no_prereq          pred=13 true=13
+customer_service::0011 no_rules           pred=13 true=13
+customer_service::0011 alpha_0_0          pred=13 true=13
+customer_service::0011 no_profile_anchor  pred=13 true=13
+customer_service::0031 no_temporal        pred=10 true=10
+customer_service::0031 no_prereq          pred=10 true=10
+customer_service::0031 no_rules           pred=10 true=10
+customer_service::0031 alpha_0_0          pred=10 true=10
+customer_service::0031 no_profile_anchor  pred=10 true=10
+customer_service::0051 no_temporal        pred=14 true=7
+customer_service::0051 no_prereq          pred=14 true=7
+customer_service::0051 no_rules           pred=14 true=7
+customer_service::0051 alpha_0_0          pred=14 true=7
+customer_service::0051 no_profile_anchor  pred=14 true=7
+customer_service::0071 no_temporal        pred=3 true=3
+customer_service::0071 no_prereq          pred=4 true=3
+customer_service::0071 no_rules           pred=19 true=3
+customer_service::0071 alpha_0_0          pred=3 true=3
+customer_service::0071 no_profile_anchor  pred=3 true=3
+customer_service::0091 no_temporal        pred=24 true=24
+customer_service::0091 no_prereq          pred=24 true=24
+customer_service::0091 no_rules           pred=24 true=24
+customer_service::0091 alpha_0_0          pred=24 true=24
+customer_service::0091 no_profile_anchor  pred=12 true=24
+customer_service::0012 no_temporal        pred=14 true=14
+customer_service::0012 no_prereq          pred=14 true=14
+customer_service::0012 no_rules           pred=14 true=14
+customer_service::0012 alpha_0_0          pred=12 true=14
+customer_service::0012 no_profile_anchor  pred=12 true=14
+customer_service::0032 no_temporal        pred=11 true=11
+customer_service::0032 no_prereq          pred=11 true=11
+customer_service::0032 no_rules           pred=21 true=11
+customer_service::0032 alpha_0_0          pred=11 true=11
+customer_service::0032 no_profile_anchor  pred=11 true=11
+customer_service::0052 no_temporal        pred=12 true=8
+customer_service::0052 no_prereq          pred=11 true=8
+customer_service::0052 no_rules           pred=11 true=8
+customer_service::0052 alpha_0_0          pred=11 true=8
+customer_service::0052 no_profile_anchor  pred=12 true=8
+customer_service::0072 no_temporal        pred=3 true=4
+customer_service::0072 no_prereq          pred=4 true=4
+customer_service::0072 no_rules           pred=19 true=4
+customer_service::0072 alpha_0_0          pred=4 true=4
+customer_service::0072 no_profile_anchor  pred=4 true=4
+customer_service::0092 no_temporal        pred=9 true=1
+customer_service::0092 no_prereq          pred=9 true=1
+customer_service::0092 no_rules           pred=1 true=1
+customer_service::0092 alpha_0_0          pred=9 true=1
+customer_service::0092 no_profile_anchor  pred=9 true=1
+customer_service::0013 no_temporal        pred=24 true=15
+customer_service::0013 no_prereq          pred=24 true=15
+customer_service::0013 no_rules           pred=24 true=15
+customer_service::0013 alpha_0_0          pred=24 true=15
+customer_service::0013 no_profile_anchor  pred=24 true=15
+customer_service::0033 no_temporal        pred=12 true=12
+customer_service::0033 no_prereq          pred=12 true=12
+customer_service::0033 no_rules           pred=12 true=12
+customer_service::0033 alpha_0_0          pred=12 true=12
+customer_service::0033 no_profile_anchor  pred=12 true=12
+customer_service::0053 no_temporal        pred=1 true=9
+customer_service::0053 no_prereq          pred=9 true=9
+customer_service::0053 no_rules           pred=9 true=9
+customer_service::0053 alpha_0_0          pred=9 true=9
+customer_service::0053 no_profile_anchor  pred=9 true=9
+customer_service::0073 no_temporal        pred=6 true=6
+customer_service::0073 no_prereq          pred=6 true=6
+customer_service::0073 no_rules           pred=6 true=6
+customer_service::0073 alpha_0_0          pred=6 true=6
+customer_service::0073 no_profile_anchor  pred=6 true=6
+customer_service::0093 no_temporal        pred=19 true=2
+customer_service::0093 no_prereq          pred=19 true=2
+customer_service::0093 no_rules           pred=19 true=2
+customer_service::0093 alpha_0_0          pred=19 true=2
+customer_service::0093 no_profile_anchor  pred=19 true=2
+customer_service::0014 no_temporal        pred=16 true=16
+customer_service::0014 no_prereq          pred=16 true=16
+customer_service::0014 no_rules           pred=16 true=16
+customer_service::0014 alpha_0_0          pred=16 true=16
+customer_service::0014 no_profile_anchor  pred=16 true=16
+customer_service::0034 no_temporal        pred=13 true=13
+customer_service::0034 no_prereq          pred=13 true=13
+customer_service::0034 no_rules           pred=13 true=13
+customer_service::0034 alpha_0_0          pred=13 true=13
+customer_service::0034 no_profile_anchor  pred=13 true=13
+customer_service::0054 no_temporal        pred=10 true=10
+customer_service::0054 no_prereq          pred=10 true=10
+customer_service::0054 no_rules           pred=10 true=10
+customer_service::0054 alpha_0_0          pred=10 true=10
+customer_service::0054 no_profile_anchor  pred=10 true=10
+customer_service::0074 no_temporal        pred=12 true=7
+customer_service::0074 no_prereq          pred=12 true=7
+customer_service::0074 no_rules           pred=12 true=7
+customer_service::0074 alpha_0_0          pred=12 true=7
+customer_service::0074 no_profile_anchor  pred=12 true=7
+customer_service::0094 no_temporal        pred=3 true=3
+customer_service::0094 no_prereq          pred=3 true=3
+customer_service::0094 no_rules           pred=4 true=3
+customer_service::0094 alpha_0_0          pred=3 true=3
+customer_service::0094 no_profile_anchor  pred=4 true=3
+customer_service::0015 no_temporal        pred=21 true=17
+customer_service::0015 no_prereq          pred=15 true=17
+customer_service::0015 no_rules           pred=15 true=17
+customer_service::0015 alpha_0_0          pred=13 true=17
+customer_service::0015 no_profile_anchor  pred=6 true=17
+customer_service::0035 no_temporal        pred=14 true=14
+customer_service::0035 no_prereq          pred=14 true=14
+customer_service::0035 no_rules           pred=14 true=14
+customer_service::0035 alpha_0_0          pred=14 true=14
+customer_service::0035 no_profile_anchor  pred=14 true=14
+customer_service::0055 no_temporal        pred=11 true=11
+customer_service::0055 no_prereq          pred=11 true=11
+customer_service::0055 no_rules           pred=19 true=11
+customer_service::0055 alpha_0_0          pred=11 true=11
+customer_service::0055 no_profile_anchor  pred=11 true=11
+customer_service::0075 no_temporal        pred=24 true=8
+customer_service::0075 no_prereq          pred=12 true=8
+customer_service::0075 no_rules           pred=11 true=8
+customer_service::0075 alpha_0_0          pred=11 true=8
+customer_service::0075 no_profile_anchor  pred=24 true=8
+customer_service::0095 no_temporal        pred=4 true=4
+customer_service::0095 no_prereq          pred=4 true=4
+customer_service::0095 no_rules           pred=19 true=4
+customer_service::0095 alpha_0_0          pred=4 true=4
+customer_service::0095 no_profile_anchor  pred=4 true=4
+customer_service::0016 no_temporal        pred=19 true=18
+customer_service::0016 no_prereq          pred=18 true=18
+customer_service::0016 no_rules           pred=18 true=18
+customer_service::0016 alpha_0_0          pred=18 true=18
+customer_service::0016 no_profile_anchor  pred=18 true=18
+customer_service::0036 no_temporal        pred=11 true=15
+customer_service::0036 no_prereq          pred=11 true=15
+customer_service::0036 no_rules           pred=11 true=15
+customer_service::0036 alpha_0_0          pred=11 true=15
+customer_service::0036 no_profile_anchor  pred=11 true=15
+customer_service::0056 no_temporal        pred=12 true=12
+customer_service::0056 no_prereq          pred=12 true=12
+customer_service::0056 no_rules           pred=21 true=12
+customer_service::0056 alpha_0_0          pred=12 true=12
+customer_service::0056 no_profile_anchor  pred=12 true=12
+customer_service::0076 no_temporal        pred=9 true=9
+customer_service::0076 no_prereq          pred=9 true=9
+customer_service::0076 no_rules           pred=1 true=9
+customer_service::0076 alpha_0_0          pred=9 true=9
+customer_service::0076 no_profile_anchor  pred=10 true=9
+customer_service::0096 no_temporal        pred=6 true=6
+customer_service::0096 no_prereq          pred=6 true=6
+customer_service::0096 no_rules           pred=6 true=6
+customer_service::0096 alpha_0_0          pred=6 true=6
+customer_service::0096 no_profile_anchor  pred=6 true=6
+customer_service::0017 no_temporal        pred=19 true=19
+customer_service::0017 no_prereq          pred=19 true=19
+customer_service::0017 no_rules           pred=19 true=19
+customer_service::0017 alpha_0_0          pred=19 true=19
+customer_service::0017 no_profile_anchor  pred=19 true=19
+customer_service::0037 no_temporal        pred=16 true=16
+customer_service::0037 no_prereq          pred=19 true=16
+customer_service::0037 no_rules           pred=16 true=16
+customer_service::0037 alpha_0_0          pred=19 true=16
+customer_service::0037 no_profile_anchor  pred=16 true=16
+customer_service::0057 no_temporal        pred=13 true=13
+customer_service::0057 no_prereq          pred=13 true=13
+customer_service::0057 no_rules           pred=19 true=13
+customer_service::0057 alpha_0_0          pred=13 true=13
+customer_service::0057 no_profile_anchor  pred=13 true=13
+customer_service::0077 no_temporal        pred=9 true=10
+customer_service::0077 no_prereq          pred=1 true=10
+customer_service::0077 no_rules           pred=9 true=10
+customer_service::0077 alpha_0_0          pred=9 true=10
+customer_service::0077 no_profile_anchor  pred=9 true=10
+customer_service::0097 no_temporal        pred=9 true=7
+customer_service::0097 no_prereq          pred=1 true=7
+customer_service::0097 no_rules           pred=9 true=7
+customer_service::0097 alpha_0_0          pred=10 true=7
+customer_service::0097 no_profile_anchor  pred=9 true=7
+customer_service::0018 no_temporal        pred=20 true=20
+customer_service::0018 no_prereq          pred=20 true=20
+customer_service::0018 no_rules           pred=20 true=20
+customer_service::0018 alpha_0_0          pred=20 true=20
+customer_service::0018 no_profile_anchor  pred=20 true=20
+customer_service::0038 no_temporal        pred=11 true=17
+customer_service::0038 no_prereq          pred=11 true=17
+customer_service::0038 no_rules           pred=19 true=17
+customer_service::0038 alpha_0_0          pred=11 true=17
+customer_service::0038 no_profile_anchor  pred=11 true=17
+customer_service::0058 no_temporal        pred=12 true=14
+customer_service::0058 no_prereq          pred=12 true=14
+customer_service::0058 no_rules           pred=12 true=14
+customer_service::0058 alpha_0_0          pred=12 true=14
+customer_service::0058 no_profile_anchor  pred=12 true=14
+customer_service::0078 no_temporal        pred=11 true=11
+customer_service::0078 no_prereq          pred=11 true=11
+customer_service::0078 no_rules           pred=11 true=11
+customer_service::0078 alpha_0_0          pred=11 true=11
+customer_service::0078 no_profile_anchor  pred=11 true=11
+customer_service::0098 no_temporal        pred=21 true=8
+customer_service::0098 no_prereq          pred=19 true=8
+customer_service::0098 no_rules           pred=21 true=8
+customer_service::0098 alpha_0_0          pred=19 true=8
+customer_service::0098 no_profile_anchor  pred=12 true=8
+customer_service::0019 no_temporal        pred=21 true=21
+customer_service::0019 no_prereq          pred=19 true=21
+customer_service::0019 no_rules           pred=19 true=21
+customer_service::0019 alpha_0_0          pred=19 true=21
+customer_service::0019 no_profile_anchor  pred=21 true=21
+customer_service::0039 no_temporal        pred=19 true=18
+customer_service::0039 no_prereq          pred=19 true=18
+customer_service::0039 no_rules           pred=19 true=18
+customer_service::0039 alpha_0_0          pred=19 true=18
+customer_service::0039 no_profile_anchor  pred=19 true=18
+customer_service::0059 no_temporal        pred=24 true=15
+customer_service::0059 no_prereq          pred=24 true=15
+customer_service::0059 no_rules           pred=24 true=15
+customer_service::0059 alpha_0_0          pred=24 true=15
+customer_service::0059 no_profile_anchor  pred=24 true=15
+customer_service::0079 no_temporal        pred=12 true=12
+customer_service::0079 no_prereq          pred=12 true=12
+customer_service::0079 no_rules           pred=15 true=12
+customer_service::0079 alpha_0_0          pred=12 true=12
+customer_service::0079 no_profile_anchor  pred=12 true=12
+customer_service::0099 no_temporal        pred=10 true=9
+customer_service::0099 no_prereq          pred=9 true=9
+customer_service::0099 no_rules           pred=9 true=9
+customer_service::0099 alpha_0_0          pred=9 true=9
+customer_service::0099 no_profile_anchor  pred=9 true=9
+    healthcare::0000 no_temporal        pred=11 true=1
+    healthcare::0000 no_prereq          pred=11 true=1
+    healthcare::0000 no_rules           pred=10 true=1
+    healthcare::0000 alpha_0_0          pred=11 true=1
+    healthcare::0000 no_profile_anchor  pred=10 true=1
+    healthcare::0020 no_temporal        pred=22 true=22
+    healthcare::0020 no_prereq          pred=22 true=22
+    healthcare::0020 no_rules           pred=22 true=22
+    healthcare::0020 alpha_0_0          pred=22 true=22
+    healthcare::0020 no_profile_anchor  pred=22 true=22
+    healthcare::0040 no_temporal        pred=19 true=19
+    healthcare::0040 no_prereq          pred=19 true=19
+    healthcare::0040 no_rules           pred=19 true=19
+    healthcare::0040 alpha_0_0          pred=19 true=19
+    healthcare::0040 no_profile_anchor  pred=19 true=19
+    healthcare::0060 no_temporal        pred=16 true=16
+    healthcare::0060 no_prereq          pred=21 true=16
+    healthcare::0060 no_rules           pred=16 true=16
+    healthcare::0060 alpha_0_0          pred=21 true=16
+    healthcare::0060 no_profile_anchor  pred=16 true=16
+    healthcare::0080 no_temporal        pred=21 true=13
+    healthcare::0080 no_prereq          pred=21 true=13
+    healthcare::0080 no_rules           pred=21 true=13
+    healthcare::0080 alpha_0_0          pred=21 true=13
+    healthcare::0080 no_profile_anchor  pred=21 true=13
+    healthcare::0001 no_temporal        pred=2 true=2
+    healthcare::0001 no_prereq          pred=2 true=2
+    healthcare::0001 no_rules           pred=2 true=2
+    healthcare::0001 alpha_0_0          pred=2 true=2
+    healthcare::0001 no_profile_anchor  pred=11 true=2
+    healthcare::0021 no_temporal        pred=22 true=23
+    healthcare::0021 no_prereq          pred=22 true=23
+    healthcare::0021 no_rules           pred=11 true=23
+    healthcare::0021 alpha_0_0          pred=22 true=23
+    healthcare::0021 no_profile_anchor  pred=10 true=23
+    healthcare::0041 no_temporal        pred=11 true=20
+    healthcare::0041 no_prereq          pred=16 true=20
+    healthcare::0041 no_rules           pred=16 true=20
+    healthcare::0041 alpha_0_0          pred=11 true=20
+    healthcare::0041 no_profile_anchor  pred=12 true=20
+    healthcare::0061 no_temporal        pred=17 true=17
+    healthcare::0061 no_prereq          pred=11 true=17
+    healthcare::0061 no_rules           pred=11 true=17
+    healthcare::0061 alpha_0_0          pred=11 true=17
+    healthcare::0061 no_profile_anchor  pred=17 true=17
+    healthcare::0081 no_temporal        pred=14 true=14
+    healthcare::0081 no_prereq          pred=11 true=14
+    healthcare::0081 no_rules           pred=11 true=14
+    healthcare::0081 alpha_0_0          pred=11 true=14
+    healthcare::0081 no_profile_anchor  pred=14 true=14
+    healthcare::0002 no_temporal        pred=3 true=3
+    healthcare::0002 no_prereq          pred=3 true=3
+    healthcare::0002 no_rules           pred=3 true=3
+    healthcare::0002 alpha_0_0          pred=3 true=3
+    healthcare::0002 no_profile_anchor  pred=3 true=3
+    healthcare::0022 no_temporal        pred=11 true=24
+    healthcare::0022 no_prereq          pred=21 true=24
+    healthcare::0022 no_rules           pred=21 true=24
+    healthcare::0022 alpha_0_0          pred=11 true=24
+    healthcare::0022 no_profile_anchor  pred=21 true=24
+    healthcare::0042 no_temporal        pred=21 true=21
+    healthcare::0042 no_prereq          pred=21 true=21
+    healthcare::0042 no_rules           pred=21 true=21
+    healthcare::0042 alpha_0_0          pred=21 true=21
+    healthcare::0042 no_profile_anchor  pred=21 true=21
+    healthcare::0062 no_temporal        pred=11 true=18
+    healthcare::0062 no_prereq          pred=10 true=18
+    healthcare::0062 no_rules           pred=11 true=18
+    healthcare::0062 alpha_0_0          pred=11 true=18
+    healthcare::0062 no_profile_anchor  pred=11 true=18
+    healthcare::0082 no_temporal        pred=11 true=15
+    healthcare::0082 no_prereq          pred=11 true=15
+    healthcare::0082 no_rules           pred=11 true=15
+    healthcare::0082 alpha_0_0          pred=11 true=15
+    healthcare::0082 no_profile_anchor  pred=11 true=15
+    healthcare::0003 no_temporal        pred=4 true=4
+    healthcare::0003 no_prereq          pred=3 true=4
+    healthcare::0003 no_rules           pred=4 true=4
+    healthcare::0003 alpha_0_0          pred=3 true=4
+    healthcare::0003 no_profile_anchor  pred=4 true=4
+    healthcare::0023 no_temporal        pred=10 true=1
+    healthcare::0023 no_prereq          pred=10 true=1
+    healthcare::0023 no_rules           pred=10 true=1
+    healthcare::0023 alpha_0_0          pred=10 true=1
+    healthcare::0023 no_profile_anchor  pred=10 true=1
+    healthcare::0043 no_temporal        pred=22 true=22
+    healthcare::0043 no_prereq          pred=22 true=22
+    healthcare::0043 no_rules           pred=22 true=22
+    healthcare::0043 alpha_0_0          pred=22 true=22
+    healthcare::0043 no_profile_anchor  pred=22 true=22
+    healthcare::0063 no_temporal        pred=19 true=19
+    healthcare::0063 no_prereq          pred=3 true=19
+    healthcare::0063 no_rules           pred=3 true=19
+    healthcare::0063 alpha_0_0          pred=19 true=19
+    healthcare::0063 no_profile_anchor  pred=3 true=19
+    healthcare::0083 no_temporal        pred=16 true=16
+    healthcare::0083 no_prereq          pred=16 true=16
+    healthcare::0083 no_rules           pred=16 true=16
+    healthcare::0083 alpha_0_0          pred=16 true=16
+    healthcare::0083 no_profile_anchor  pred=16 true=16
+    healthcare::0004 no_temporal        pred=11 true=6
+    healthcare::0004 no_prereq          pred=11 true=6
+    healthcare::0004 no_rules           pred=11 true=6
+    healthcare::0004 alpha_0_0          pred=11 true=6
+    healthcare::0004 no_profile_anchor  pred=11 true=6
+    healthcare::0024 no_temporal        pred=20 true=2
+    healthcare::0024 no_prereq          pred=20 true=2
+    healthcare::0024 no_rules           pred=20 true=2
+    healthcare::0024 alpha_0_0          pred=20 true=2
+    healthcare::0024 no_profile_anchor  pred=11 true=2
+    healthcare::0044 no_temporal        pred=11 true=23
+    healthcare::0044 no_prereq          pred=11 true=23
+    healthcare::0044 no_rules           pred=11 true=23
+    healthcare::0044 alpha_0_0          pred=11 true=23
+    healthcare::0044 no_profile_anchor  pred=10 true=23
+    healthcare::0064 no_temporal        pred=20 true=20
+    healthcare::0064 no_prereq          pred=20 true=20
+    healthcare::0064 no_rules           pred=20 true=20
+    healthcare::0064 alpha_0_0          pred=20 true=20
+    healthcare::0064 no_profile_anchor  pred=13 true=20
+    healthcare::0084 no_temporal        pred=11 true=17
+    healthcare::0084 no_prereq          pred=11 true=17
+    healthcare::0084 no_rules           pred=11 true=17
+    healthcare::0084 alpha_0_0          pred=11 true=17
+    healthcare::0084 no_profile_anchor  pred=15 true=17
+    healthcare::0005 no_temporal        pred=11 true=7
+    healthcare::0005 no_prereq          pred=11 true=7
+    healthcare::0005 no_rules           pred=11 true=7
+    healthcare::0005 alpha_0_0          pred=11 true=7
+    healthcare::0005 no_profile_anchor  pred=12 true=7
+    healthcare::0025 no_temporal        pred=11 true=3
+    healthcare::0025 no_prereq          pred=11 true=3
+    healthcare::0025 no_rules           pred=11 true=3
+    healthcare::0025 alpha_0_0          pred=11 true=3
+    healthcare::0025 no_profile_anchor  pred=10 true=3
+    healthcare::0045 no_temporal        pred=21 true=24
+    healthcare::0045 no_prereq          pred=21 true=24
+    healthcare::0045 no_rules           pred=21 true=24
+    healthcare::0045 alpha_0_0          pred=21 true=24
+    healthcare::0045 no_profile_anchor  pred=21 true=24
+    healthcare::0065 no_temporal        pred=21 true=21
+    healthcare::0065 no_prereq          pred=21 true=21
+    healthcare::0065 no_rules           pred=21 true=21
+    healthcare::0065 alpha_0_0          pred=21 true=21
+    healthcare::0065 no_profile_anchor  pred=21 true=21
+    healthcare::0085 no_temporal        pred=11 true=18
+    healthcare::0085 no_prereq          pred=11 true=18
+    healthcare::0085 no_rules           pred=11 true=18
+    healthcare::0085 alpha_0_0          pred=11 true=18
+    healthcare::0085 no_profile_anchor  pred=11 true=18
+    healthcare::0006 no_temporal        pred=11 true=8
+    healthcare::0006 no_prereq          pred=11 true=8
+    healthcare::0006 no_rules           pred=11 true=8
+    healthcare::0006 alpha_0_0          pred=21 true=8
+    healthcare::0006 no_profile_anchor  pred=12 true=8
+    healthcare::0026 no_temporal        pred=3 true=4
+    healthcare::0026 no_prereq          pred=3 true=4
+    healthcare::0026 no_rules           pred=3 true=4
+    healthcare::0026 alpha_0_0          pred=3 true=4
+    healthcare::0026 no_profile_anchor  pred=3 true=4
+    healthcare::0046 no_temporal        pred=11 true=1
+    healthcare::0046 no_prereq          pred=9 true=1
+    healthcare::0046 no_rules           pred=10 true=1
+    healthcare::0046 alpha_0_0          pred=10 true=1
+    healthcare::0046 no_profile_anchor  pred=11 true=1
+    healthcare::0066 no_temporal        pred=22 true=22
+    healthcare::0066 no_prereq          pred=22 true=22
+    healthcare::0066 no_rules           pred=22 true=22
+    healthcare::0066 alpha_0_0          pred=22 true=22
+    healthcare::0066 no_profile_anchor  pred=22 true=22
+    healthcare::0086 no_temporal        pred=19 true=19
+    healthcare::0086 no_prereq          pred=19 true=19
+    healthcare::0086 no_rules           pred=2 true=19
+    healthcare::0086 alpha_0_0          pred=19 true=19
+    healthcare::0086 no_profile_anchor  pred=19 true=19
+    healthcare::0007 no_temporal        pred=11 true=9
+    healthcare::0007 no_prereq          pred=11 true=9
+    healthcare::0007 no_rules           pred=10 true=9
+    healthcare::0007 alpha_0_0          pred=11 true=9
+    healthcare::0007 no_profile_anchor  pred=11 true=9
+    healthcare::0027 no_temporal        pred=11 true=6
+    healthcare::0027 no_prereq          pred=6 true=6
+    healthcare::0027 no_rules           pred=6 true=6
+    healthcare::0027 alpha_0_0          pred=11 true=6
+    healthcare::0027 no_profile_anchor  pred=6 true=6
+    healthcare::0047 no_temporal        pred=20 true=2
+    healthcare::0047 no_prereq          pred=20 true=2
+    healthcare::0047 no_rules           pred=20 true=2
+    healthcare::0047 alpha_0_0          pred=20 true=2
+    healthcare::0047 no_profile_anchor  pred=11 true=2
+    healthcare::0067 no_temporal        pred=16 true=23
+    healthcare::0067 no_prereq          pred=16 true=23
+    healthcare::0067 no_rules           pred=11 true=23
+    healthcare::0067 alpha_0_0          pred=11 true=23
+    healthcare::0067 no_profile_anchor  pred=10 true=23
+    healthcare::0087 no_temporal        pred=11 true=20
+    healthcare::0087 no_prereq          pred=11 true=20
+    healthcare::0087 no_rules           pred=11 true=20
+    healthcare::0087 alpha_0_0          pred=11 true=20
+    healthcare::0087 no_profile_anchor  pred=12 true=20
+    healthcare::0008 no_temporal        pred=11 true=10
+    healthcare::0008 no_prereq          pred=11 true=10
+    healthcare::0008 no_rules           pred=11 true=10
+    healthcare::0008 alpha_0_0          pred=11 true=10
+    healthcare::0008 no_profile_anchor  pred=11 true=10
+    healthcare::0028 no_temporal        pred=11 true=7
+    healthcare::0028 no_prereq          pred=11 true=7
+    healthcare::0028 no_rules           pred=11 true=7
+    healthcare::0028 alpha_0_0          pred=11 true=7
+    healthcare::0028 no_profile_anchor  pred=11 true=7
+    healthcare::0048 no_temporal        pred=11 true=3
+    healthcare::0048 no_prereq          pred=11 true=3
+    healthcare::0048 no_rules           pred=11 true=3
+    healthcare::0048 alpha_0_0          pred=11 true=3
+    healthcare::0048 no_profile_anchor  pred=10 true=3
+    healthcare::0068 no_temporal        pred=11 true=24
+    healthcare::0068 no_prereq          pred=11 true=24
+    healthcare::0068 no_rules           pred=11 true=24
+    healthcare::0068 alpha_0_0          pred=11 true=24
+    healthcare::0068 no_profile_anchor  pred=21 true=24
+    healthcare::0088 no_temporal        pred=21 true=21
+    healthcare::0088 no_prereq          pred=21 true=21
+    healthcare::0088 no_rules           pred=21 true=21
+    healthcare::0088 alpha_0_0          pred=21 true=21
+    healthcare::0088 no_profile_anchor  pred=21 true=21
+    healthcare::0009 no_temporal        pred=11 true=11
+    healthcare::0009 no_prereq          pred=11 true=11
+    healthcare::0009 no_rules           pred=11 true=11
+    healthcare::0009 alpha_0_0          pred=11 true=11
+    healthcare::0009 no_profile_anchor  pred=11 true=11
+    healthcare::0029 no_temporal        pred=11 true=8
+    healthcare::0029 no_prereq          pred=11 true=8
+    healthcare::0029 no_rules           pred=11 true=8
+    healthcare::0029 alpha_0_0          pred=11 true=8
+    healthcare::0029 no_profile_anchor  pred=11 true=8
+    healthcare::0049 no_temporal        pred=3 true=4
+    healthcare::0049 no_prereq          pred=3 true=4
+    healthcare::0049 no_rules           pred=3 true=4
+    healthcare::0049 alpha_0_0          pred=3 true=4
+    healthcare::0049 no_profile_anchor  pred=3 true=4
+    healthcare::0069 no_temporal        pred=11 true=1
+    healthcare::0069 no_prereq          pred=11 true=1
+    healthcare::0069 no_rules           pred=11 true=1
+    healthcare::0069 alpha_0_0          pred=11 true=1
+    healthcare::0069 no_profile_anchor  pred=11 true=1
+    healthcare::0089 no_temporal        pred=11 true=22
+    healthcare::0089 no_prereq          pred=11 true=22
+    healthcare::0089 no_rules           pred=22 true=22
+    healthcare::0089 alpha_0_0          pred=11 true=22
+    healthcare::0089 no_profile_anchor  pred=22 true=22
+    healthcare::0010 no_temporal        pred=12 true=12
+    healthcare::0010 no_prereq          pred=12 true=12
+    healthcare::0010 no_rules           pred=21 true=12
+    healthcare::0010 alpha_0_0          pred=12 true=12
+    healthcare::0010 no_profile_anchor  pred=12 true=12
+    healthcare::0030 no_temporal        pred=11 true=9
+    healthcare::0030 no_prereq          pred=10 true=9
+    healthcare::0030 no_rules           pred=10 true=9
+    healthcare::0030 alpha_0_0          pred=10 true=9
+    healthcare::0030 no_profile_anchor  pred=11 true=9
+    healthcare::0050 no_temporal        pred=11 true=6
+    healthcare::0050 no_prereq          pred=11 true=6
+    healthcare::0050 no_rules           pred=11 true=6
+    healthcare::0050 alpha_0_0          pred=11 true=6
+    healthcare::0050 no_profile_anchor  pred=11 true=6
+    healthcare::0070 no_temporal        pred=21 true=2
+    healthcare::0070 no_prereq          pred=20 true=2
+    healthcare::0070 no_rules           pred=1 true=2
+    healthcare::0070 alpha_0_0          pred=20 true=2
+    healthcare::0070 no_profile_anchor  pred=11 true=2
+    healthcare::0090 no_temporal        pred=23 true=23
+    healthcare::0090 no_prereq          pred=16 true=23
+    healthcare::0090 no_rules           pred=3 true=23
+    healthcare::0090 alpha_0_0          pred=23 true=23
+    healthcare::0090 no_profile_anchor  pred=23 true=23
+    healthcare::0011 no_temporal        pred=13 true=13
+    healthcare::0011 no_prereq          pred=13 true=13
+    healthcare::0011 no_rules           pred=21 true=13
+    healthcare::0011 alpha_0_0          pred=13 true=13
+    healthcare::0011 no_profile_anchor  pred=21 true=13
+    healthcare::0031 no_temporal        pred=11 true=10
+    healthcare::0031 no_prereq          pred=11 true=10
+    healthcare::0031 no_rules           pred=11 true=10
+    healthcare::0031 alpha_0_0          pred=11 true=10
+    healthcare::0031 no_profile_anchor  pred=11 true=10
+    healthcare::0051 no_temporal        pred=20 true=7
+    healthcare::0051 no_prereq          pred=20 true=7
+    healthcare::0051 no_rules           pred=20 true=7
+    healthcare::0051 alpha_0_0          pred=20 true=7
+    healthcare::0051 no_profile_anchor  pred=20 true=7
+    healthcare::0071 no_temporal        pred=21 true=3
+    healthcare::0071 no_prereq          pred=21 true=3
+    healthcare::0071 no_rules           pred=11 true=3
+    healthcare::0071 alpha_0_0          pred=11 true=3
+    healthcare::0071 no_profile_anchor  pred=10 true=3
+    healthcare::0091 no_temporal        pred=12 true=24
+    healthcare::0091 no_prereq          pred=11 true=24
+    healthcare::0091 no_rules           pred=21 true=24
+    healthcare::0091 alpha_0_0          pred=11 true=24
+    healthcare::0091 no_profile_anchor  pred=11 true=24
+    healthcare::0012 no_temporal        pred=14 true=14
+    healthcare::0012 no_prereq          pred=14 true=14
+    healthcare::0012 no_rules           pred=21 true=14
+    healthcare::0012 alpha_0_0          pred=14 true=14
+    healthcare::0012 no_profile_anchor  pred=12 true=14
+    healthcare::0032 no_temporal        pred=11 true=11
+    healthcare::0032 no_prereq          pred=11 true=11
+    healthcare::0032 no_rules           pred=11 true=11
+    healthcare::0032 alpha_0_0          pred=11 true=11
+    healthcare::0032 no_profile_anchor  pred=11 true=11
+    healthcare::0052 no_temporal        pred=21 true=8
+Traceback (most recent call last):
+  File "/Users/sriharshamakineni/Downloads/EB1A/Authorship/Journal Papers /claude + scispace  /1. Cognitive Agent Architecture/gaca_simulation/run_ablations.py", line 159, in <module>
+    main()
+    ~~~~^^
+  File "/Users/sriharshamakineni/Downloads/EB1A/Authorship/Journal Papers /claude + scispace  /1. Cognitive Agent Architecture/gaca_simulation/run_ablations.py", line 142, in main
+    result = run_one(config, g, embedder, rec, lambda d: build_domain_graph(d))
+  File "/Users/sriharshamakineni/Downloads/EB1A/Authorship/Journal Papers /claude + scispace  /1. Cognitive Agent Architecture/gaca_simulation/run_ablations.py", line 92, in run_one
+    judge_out = chat_json(JUDGE_SYSTEM, judge_prompt, temperature=0.0)
+  File "/Users/sriharshamakineni/Downloads/EB1A/Authorship/Journal Papers /claude + scispace  /1. Cognitive Agent Architecture/gaca_simulation/llm_client.py", line 103, in chat_json
+    raise RuntimeError(f"LLM call failed after {MAX_RETRIES} retries: {last_err}")
+RuntimeError: LLM call failed after 5 retries: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}

@@ -1,0 +1,1201 @@
+customer_service::0000 VL    pred=1 true=1 lat=4007ms
+customer_service::0000 FR    pred=1 true=1 lat=1741ms
+customer_service::0000 GR    pred=1 true=1 lat=1551ms
+customer_service::0000 GACA  pred=10 true=1 lat=1745ms
+customer_service::0020 VL    pred=19 true=22 lat=1702ms
+customer_service::0020 FR    pred=19 true=22 lat=1630ms
+customer_service::0020 GR    pred=22 true=22 lat=1434ms
+customer_service::0020 GACA  pred=22 true=22 lat=2284ms
+customer_service::0040 VL    pred=19 true=19 lat=2207ms
+customer_service::0040 FR    pred=19 true=19 lat=1414ms
+customer_service::0040 GR    pred=19 true=19 lat=1373ms
+customer_service::0040 GACA  pred=21 true=19 lat=2145ms
+customer_service::0060 VL    pred=19 true=16 lat=1383ms
+customer_service::0060 FR    pred=19 true=16 lat=1275ms
+customer_service::0060 GR    pred=19 true=16 lat=1469ms
+customer_service::0060 GACA  pred=19 true=16 lat=1832ms
+customer_service::0080 VL    pred=19 true=13 lat=1556ms
+customer_service::0080 FR    pred=19 true=13 lat=1958ms
+customer_service::0080 GR    pred=19 true=13 lat=1354ms
+customer_service::0080 GACA  pred=13 true=13 lat=2087ms
+customer_service::0001 VL    pred=2 true=2 lat=1569ms
+customer_service::0001 FR    pred=19 true=2 lat=1621ms
+customer_service::0001 GR    pred=19 true=2 lat=1795ms
+customer_service::0001 GACA  pred=19 true=2 lat=2042ms
+customer_service::0021 VL    pred=16 true=23 lat=1339ms
+customer_service::0021 FR    pred=16 true=23 lat=1724ms
+customer_service::0021 GR    pred=16 true=23 lat=1625ms
+customer_service::0021 GACA  pred=16 true=23 lat=2040ms
+customer_service::0041 VL    pred=20 true=20 lat=1381ms
+customer_service::0041 FR    pred=20 true=20 lat=3269ms
+customer_service::0041 GR    pred=20 true=20 lat=1556ms
+customer_service::0041 GACA  pred=20 true=20 lat=2152ms
+customer_service::0061 VL    pred=3 true=17 lat=1737ms
+customer_service::0061 FR    pred=19 true=17 lat=1412ms
+customer_service::0061 GR    pred=19 true=17 lat=1506ms
+customer_service::0061 GACA  pred=11 true=17 lat=2188ms
+customer_service::0081 VL    pred=14 true=14 lat=1479ms
+customer_service::0081 FR    pred=12 true=14 lat=1410ms
+customer_service::0081 GR    pred=11 true=14 lat=1268ms
+customer_service::0081 GACA  pred=12 true=14 lat=2110ms
+customer_service::0002 VL    pred=3 true=3 lat=1604ms
+customer_service::0002 FR    pred=19 true=3 lat=1519ms
+customer_service::0002 GR    pred=19 true=3 lat=1571ms
+customer_service::0002 GACA  pred=4 true=3 lat=2461ms
+customer_service::0022 VL    pred=24 true=24 lat=1221ms
+customer_service::0022 FR    pred=24 true=24 lat=1461ms
+customer_service::0022 GR    pred=24 true=24 lat=1467ms
+customer_service::0022 GACA  pred=24 true=24 lat=2051ms
+customer_service::0042 VL    pred=19 true=21 lat=2739ms
+customer_service::0042 FR    pred=19 true=21 lat=1535ms
+customer_service::0042 GR    pred=19 true=21 lat=1314ms
+customer_service::0042 GACA  pred=19 true=21 lat=2104ms
+customer_service::0062 VL    pred=19 true=18 lat=1665ms
+customer_service::0062 FR    pred=19 true=18 lat=1406ms
+customer_service::0062 GR    pred=18 true=18 lat=1569ms
+customer_service::0062 GACA  pred=19 true=18 lat=2065ms
+customer_service::0082 VL    pred=19 true=15 lat=1256ms
+customer_service::0082 FR    pred=19 true=15 lat=1559ms
+customer_service::0082 GR    pred=19 true=15 lat=1736ms
+customer_service::0082 GACA  pred=15 true=15 lat=2271ms
+customer_service::0003 VL    pred=4 true=4 lat=1613ms
+customer_service::0003 FR    pred=19 true=4 lat=1622ms
+customer_service::0003 GR    pred=19 true=4 lat=1984ms
+customer_service::0003 GACA  pred=4 true=4 lat=2051ms
+customer_service::0023 VL    pred=9 true=1 lat=1683ms
+customer_service::0023 FR    pred=1 true=1 lat=1301ms
+customer_service::0023 GR    pred=1 true=1 lat=1449ms
+customer_service::0023 GACA  pred=1 true=1 lat=2241ms
+customer_service::0043 VL    pred=19 true=22 lat=1531ms
+customer_service::0043 FR    pred=19 true=22 lat=1839ms
+customer_service::0043 GR    pred=19 true=22 lat=1844ms
+customer_service::0043 GACA  pred=19 true=22 lat=1805ms
+customer_service::0063 VL    pred=19 true=19 lat=1221ms
+customer_service::0063 FR    pred=19 true=19 lat=1341ms
+customer_service::0063 GR    pred=19 true=19 lat=1710ms
+customer_service::0063 GACA  pred=19 true=19 lat=2601ms
+customer_service::0083 VL    pred=16 true=16 lat=1575ms
+customer_service::0083 FR    pred=19 true=16 lat=1621ms
+customer_service::0083 GR    pred=19 true=16 lat=1745ms
+customer_service::0083 GACA  pred=19 true=16 lat=2349ms
+customer_service::0004 VL    pred=6 true=6 lat=1651ms
+customer_service::0004 FR    pred=6 true=6 lat=1529ms
+customer_service::0004 GR    pred=6 true=6 lat=1454ms
+customer_service::0004 GACA  pred=6 true=6 lat=1890ms
+customer_service::0024 VL    pred=2 true=2 lat=1558ms
+customer_service::0024 FR    pred=2 true=2 lat=1570ms
+customer_service::0024 GR    pred=2 true=2 lat=1596ms
+customer_service::0024 GACA  pred=19 true=2 lat=2100ms
+customer_service::0044 VL    pred=23 true=23 lat=1656ms
+customer_service::0044 FR    pred=22 true=23 lat=1236ms
+customer_service::0044 GR    pred=22 true=23 lat=1768ms
+customer_service::0044 GACA  pred=23 true=23 lat=2231ms
+customer_service::0064 VL    pred=20 true=20 lat=1656ms
+customer_service::0064 FR    pred=20 true=20 lat=1654ms
+customer_service::0064 GR    pred=20 true=20 lat=1714ms
+customer_service::0064 GACA  pred=20 true=20 lat=2140ms
+customer_service::0084 VL    pred=3 true=17 lat=1528ms
+customer_service::0084 FR    pred=11 true=17 lat=1689ms
+customer_service::0084 GR    pred=19 true=17 lat=1529ms
+customer_service::0084 GACA  pred=19 true=17 lat=1822ms
+customer_service::0005 VL    pred=2 true=7 lat=1297ms
+customer_service::0005 FR    pred=2 true=7 lat=1445ms
+customer_service::0005 GR    pred=2 true=7 lat=2258ms
+customer_service::0005 GACA  pred=12 true=7 lat=2116ms
+customer_service::0025 VL    pred=3 true=3 lat=1553ms
+customer_service::0025 FR    pred=3 true=3 lat=1417ms
+customer_service::0025 GR    pred=3 true=3 lat=1816ms
+customer_service::0025 GACA  pred=3 true=3 lat=1811ms
+customer_service::0045 VL    pred=24 true=24 lat=1508ms
+customer_service::0045 FR    pred=24 true=24 lat=1420ms
+customer_service::0045 GR    pred=24 true=24 lat=1898ms
+customer_service::0045 GACA  pred=24 true=24 lat=2117ms
+customer_service::0065 VL    pred=19 true=21 lat=1643ms
+customer_service::0065 FR    pred=19 true=21 lat=1755ms
+customer_service::0065 GR    pred=19 true=21 lat=1491ms
+customer_service::0065 GACA  pred=19 true=21 lat=2031ms
+customer_service::0085 VL    pred=19 true=18 lat=1289ms
+customer_service::0085 FR    pred=19 true=18 lat=1625ms
+customer_service::0085 GR    pred=19 true=18 lat=1651ms
+customer_service::0085 GACA  pred=19 true=18 lat=2793ms
+customer_service::0006 VL    pred=3 true=8 lat=2171ms
+customer_service::0006 FR    pred=3 true=8 lat=1475ms
+customer_service::0006 GR    pred=20 true=8 lat=2810ms
+customer_service::0006 GACA  pred=19 true=8 lat=2224ms
+customer_service::0026 VL    pred=4 true=4 lat=1503ms
+customer_service::0026 FR    pred=19 true=4 lat=2005ms
+customer_service::0026 GR    pred=4 true=4 lat=1653ms
+customer_service::0026 GACA  pred=4 true=4 lat=1877ms
+customer_service::0046 VL    pred=1 true=1 lat=2326ms
+customer_service::0046 FR    pred=9 true=1 lat=1377ms
+customer_service::0046 GR    pred=9 true=1 lat=1840ms
+customer_service::0046 GACA  pred=9 true=1 lat=2702ms
+customer_service::0066 VL    pred=19 true=22 lat=1448ms
+customer_service::0066 FR    pred=19 true=22 lat=1943ms
+customer_service::0066 GR    pred=19 true=22 lat=1569ms
+customer_service::0066 GACA  pred=22 true=22 lat=3697ms
+customer_service::0086 VL    pred=19 true=19 lat=1574ms
+customer_service::0086 FR    pred=19 true=19 lat=1535ms
+customer_service::0086 GR    pred=19 true=19 lat=1739ms
+customer_service::0086 GACA  pred=19 true=19 lat=2244ms
+customer_service::0007 VL    pred=1 true=9 lat=1838ms
+customer_service::0007 FR    pred=9 true=9 lat=2282ms
+customer_service::0007 GR    pred=9 true=9 lat=1822ms
+customer_service::0007 GACA  pred=1 true=9 lat=2161ms
+customer_service::0027 VL    pred=6 true=6 lat=1838ms
+customer_service::0027 FR    pred=6 true=6 lat=1809ms
+customer_service::0027 GR    pred=6 true=6 lat=1782ms
+customer_service::0027 GACA  pred=6 true=6 lat=2107ms
+customer_service::0047 VL    pred=2 true=2 lat=1600ms
+customer_service::0047 FR    pred=2 true=2 lat=1850ms
+customer_service::0047 GR    pred=2 true=2 lat=1734ms
+customer_service::0047 GACA  pred=19 true=2 lat=1944ms
+customer_service::0067 VL    pred=19 true=23 lat=1862ms
+customer_service::0067 FR    pred=11 true=23 lat=1418ms
+customer_service::0067 GR    pred=11 true=23 lat=1979ms
+customer_service::0067 GACA  pred=11 true=23 lat=2186ms
+customer_service::0087 VL    pred=20 true=20 lat=1855ms
+customer_service::0087 FR    pred=20 true=20 lat=1764ms
+customer_service::0087 GR    pred=20 true=20 lat=1705ms
+customer_service::0087 GACA  pred=20 true=20 lat=2342ms
+customer_service::0008 VL    pred=10 true=10 lat=2203ms
+customer_service::0008 FR    pred=1 true=10 lat=1477ms
+customer_service::0008 GR    pred=1 true=10 lat=1518ms
+customer_service::0008 GACA  pred=10 true=10 lat=2976ms
+customer_service::0028 VL    pred=2 true=7 lat=1643ms
+customer_service::0028 FR    pred=1 true=7 lat=1749ms
+customer_service::0028 GR    pred=1 true=7 lat=1538ms
+customer_service::0028 GACA  pred=12 true=7 lat=2113ms
+customer_service::0048 VL    pred=3 true=3 lat=2256ms
+customer_service::0048 FR    pred=19 true=3 lat=1928ms
+customer_service::0048 GR    pred=19 true=3 lat=1477ms
+customer_service::0048 GACA  pred=3 true=3 lat=2319ms
+customer_service::0068 VL    pred=24 true=24 lat=1577ms
+customer_service::0068 FR    pred=24 true=24 lat=2147ms
+customer_service::0068 GR    pred=24 true=24 lat=1702ms
+customer_service::0068 GACA  pred=24 true=24 lat=2155ms
+customer_service::0088 VL    pred=19 true=21 lat=1838ms
+customer_service::0088 FR    pred=19 true=21 lat=2251ms
+customer_service::0088 GR    pred=19 true=21 lat=1479ms
+customer_service::0088 GACA  pred=19 true=21 lat=2307ms
+customer_service::0009 VL    pred=11 true=11 lat=1539ms
+customer_service::0009 FR    pred=11 true=11 lat=1441ms
+customer_service::0009 GR    pred=11 true=11 lat=1546ms
+customer_service::0009 GACA  pred=11 true=11 lat=1808ms
+customer_service::0029 VL    pred=3 true=8 lat=1663ms
+customer_service::0029 FR    pred=3 true=8 lat=1541ms
+customer_service::0029 GR    pred=11 true=8 lat=1729ms
+customer_service::0029 GACA  pred=3 true=8 lat=2258ms
+customer_service::0049 VL    pred=4 true=4 lat=1874ms
+customer_service::0049 FR    pred=4 true=4 lat=1403ms
+customer_service::0049 GR    pred=4 true=4 lat=1555ms
+customer_service::0049 GACA  pred=4 true=4 lat=1969ms
+customer_service::0069 VL    pred=9 true=1 lat=1470ms
+customer_service::0069 FR    pred=9 true=1 lat=1526ms
+customer_service::0069 GR    pred=1 true=1 lat=1418ms
+customer_service::0069 GACA  pred=9 true=1 lat=2216ms
+customer_service::0089 VL    pred=19 true=22 lat=1577ms
+customer_service::0089 FR    pred=19 true=22 lat=1619ms
+customer_service::0089 GR    pred=19 true=22 lat=1487ms
+customer_service::0089 GACA  pred=19 true=22 lat=2460ms
+customer_service::0010 VL    pred=24 true=12 lat=1479ms
+customer_service::0010 FR    pred=24 true=12 lat=1699ms
+customer_service::0010 GR    pred=24 true=12 lat=1600ms
+customer_service::0010 GACA  pred=12 true=12 lat=2177ms
+customer_service::0030 VL    pred=9 true=9 lat=1640ms
+customer_service::0030 FR    pred=9 true=9 lat=1537ms
+customer_service::0030 GR    pred=9 true=9 lat=1435ms
+customer_service::0030 GACA  pred=9 true=9 lat=1920ms
+customer_service::0050 VL    pred=6 true=6 lat=1556ms
+customer_service::0050 FR    pred=6 true=6 lat=3044ms
+customer_service::0050 GR    pred=6 true=6 lat=1314ms
+customer_service::0050 GACA  pred=6 true=6 lat=2177ms
+customer_service::0070 VL    pred=2 true=2 lat=1390ms
+customer_service::0070 FR    pred=19 true=2 lat=1514ms
+customer_service::0070 GR    pred=19 true=2 lat=1428ms
+customer_service::0070 GACA  pred=19 true=2 lat=2328ms
+customer_service::0090 VL    pred=11 true=23 lat=1571ms
+customer_service::0090 FR    pred=11 true=23 lat=1496ms
+customer_service::0090 GR    pred=11 true=23 lat=1325ms
+customer_service::0090 GACA  pred=11 true=23 lat=1859ms
+customer_service::0011 VL    pred=13 true=13 lat=1425ms
+customer_service::0011 FR    pred=13 true=13 lat=1403ms
+customer_service::0011 GR    pred=13 true=13 lat=1707ms
+customer_service::0011 GACA  pred=13 true=13 lat=1989ms
+customer_service::0031 VL    pred=10 true=10 lat=1262ms
+customer_service::0031 FR    pred=10 true=10 lat=1512ms
+customer_service::0031 GR    pred=10 true=10 lat=2037ms
+customer_service::0031 GACA  pred=10 true=10 lat=1887ms
+customer_service::0051 VL    pred=14 true=7 lat=1368ms
+customer_service::0051 FR    pred=14 true=7 lat=1528ms
+customer_service::0051 GR    pred=12 true=7 lat=1321ms
+customer_service::0051 GACA  pred=14 true=7 lat=1844ms
+customer_service::0071 VL    pred=19 true=3 lat=1526ms
+customer_service::0071 FR    pred=19 true=3 lat=1526ms
+customer_service::0071 GR    pred=19 true=3 lat=1441ms
+customer_service::0071 GACA  pred=3 true=3 lat=1841ms
+customer_service::0091 VL    pred=24 true=24 lat=1938ms
+customer_service::0091 FR    pred=12 true=24 lat=1545ms
+customer_service::0091 GR    pred=24 true=24 lat=1526ms
+customer_service::0091 GACA  pred=24 true=24 lat=2213ms
+customer_service::0012 VL    pred=12 true=14 lat=1466ms
+customer_service::0012 FR    pred=12 true=14 lat=1574ms
+customer_service::0012 GR    pred=14 true=14 lat=2173ms
+customer_service::0012 GACA  pred=12 true=14 lat=2174ms
+customer_service::0032 VL    pred=19 true=11 lat=1591ms
+customer_service::0032 FR    pred=11 true=11 lat=1561ms
+customer_service::0032 GR    pred=11 true=11 lat=1489ms
+customer_service::0032 GACA  pred=11 true=11 lat=1957ms
+customer_service::0052 VL    pred=11 true=8 lat=1782ms
+customer_service::0052 FR    pred=11 true=8 lat=1342ms
+customer_service::0052 GR    pred=11 true=8 lat=1310ms
+customer_service::0052 GACA  pred=11 true=8 lat=1983ms
+customer_service::0072 VL    pred=19 true=4 lat=1429ms
+customer_service::0072 FR    pred=19 true=4 lat=1892ms
+customer_service::0072 GR    pred=19 true=4 lat=1654ms
+customer_service::0072 GACA  pred=4 true=4 lat=2035ms
+customer_service::0092 VL    pred=1 true=1 lat=1590ms
+customer_service::0092 FR    pred=9 true=1 lat=1534ms
+customer_service::0092 GR    pred=1 true=1 lat=1651ms
+customer_service::0092 GACA  pred=9 true=1 lat=1889ms
+customer_service::0013 VL    pred=24 true=15 lat=1276ms
+customer_service::0013 FR    pred=24 true=15 lat=1631ms
+customer_service::0013 GR    pred=24 true=15 lat=1715ms
+customer_service::0013 GACA  pred=24 true=15 lat=1892ms
+customer_service::0033 VL    pred=11 true=12 lat=1352ms
+customer_service::0033 FR    pred=14 true=12 lat=1610ms
+customer_service::0033 GR    pred=14 true=12 lat=1679ms
+customer_service::0033 GACA  pred=12 true=12 lat=1856ms
+customer_service::0053 VL    pred=1 true=9 lat=2415ms
+customer_service::0053 FR    pred=9 true=9 lat=1507ms
+customer_service::0053 GR    pred=9 true=9 lat=1300ms
+customer_service::0053 GACA  pred=9 true=9 lat=1989ms
+customer_service::0073 VL    pred=6 true=6 lat=1431ms
+customer_service::0073 FR    pred=6 true=6 lat=1619ms
+customer_service::0073 GR    pred=6 true=6 lat=1783ms
+customer_service::0073 GACA  pred=6 true=6 lat=2091ms
+customer_service::0093 VL    pred=2 true=2 lat=1652ms
+customer_service::0093 FR    pred=2 true=2 lat=1434ms
+customer_service::0093 GR    pred=19 true=2 lat=1366ms
+customer_service::0093 GACA  pred=19 true=2 lat=2189ms
+customer_service::0014 VL    pred=2 true=16 lat=1534ms
+customer_service::0014 FR    pred=19 true=16 lat=1759ms
+customer_service::0014 GR    pred=19 true=16 lat=1725ms
+customer_service::0014 GACA  pred=19 true=16 lat=1894ms
+customer_service::0034 VL    pred=13 true=13 lat=1774ms
+customer_service::0034 FR    pred=13 true=13 lat=1372ms
+customer_service::0034 GR    pred=13 true=13 lat=1486ms
+customer_service::0034 GACA  pred=13 true=13 lat=2065ms
+customer_service::0054 VL    pred=1 true=10 lat=2405ms
+customer_service::0054 FR    pred=1 true=10 lat=1627ms
+customer_service::0054 GR    pred=10 true=10 lat=1613ms
+customer_service::0054 GACA  pred=10 true=10 lat=1914ms
+customer_service::0074 VL    pred=2 true=7 lat=1510ms
+customer_service::0074 FR    pred=2 true=7 lat=1511ms
+customer_service::0074 GR    pred=12 true=7 lat=1222ms
+customer_service::0074 GACA  pred=12 true=7 lat=2045ms
+customer_service::0094 VL    pred=4 true=3 lat=1761ms
+customer_service::0094 FR    pred=4 true=3 lat=1692ms
+customer_service::0094 GR    pred=3 true=3 lat=1543ms
+customer_service::0094 GACA  pred=3 true=3 lat=2137ms
+customer_service::0015 VL    pred=3 true=17 lat=1651ms
+customer_service::0015 FR    pred=19 true=17 lat=1441ms
+customer_service::0015 GR    pred=15 true=17 lat=1632ms
+customer_service::0015 GACA  pred=15 true=17 lat=2257ms
+customer_service::0035 VL    pred=14 true=14 lat=1422ms
+customer_service::0035 FR    pred=14 true=14 lat=1700ms
+customer_service::0035 GR    pred=14 true=14 lat=1748ms
+customer_service::0035 GACA  pred=14 true=14 lat=2432ms
+customer_service::0055 VL    pred=19 true=11 lat=1640ms
+customer_service::0055 FR    pred=19 true=11 lat=1415ms
+customer_service::0055 GR    pred=19 true=11 lat=1451ms
+customer_service::0055 GACA  pred=11 true=11 lat=2279ms
+customer_service::0075 VL    pred=3 true=8 lat=1517ms
+customer_service::0075 FR    pred=11 true=8 lat=1443ms
+customer_service::0075 GR    pred=11 true=8 lat=1668ms
+customer_service::0075 GACA  pred=11 true=8 lat=1691ms
+customer_service::0095 VL    pred=4 true=4 lat=2516ms
+customer_service::0095 FR    pred=4 true=4 lat=1811ms
+customer_service::0095 GR    pred=19 true=4 lat=1833ms
+customer_service::0095 GACA  pred=4 true=4 lat=2228ms
+customer_service::0016 VL    pred=19 true=18 lat=1767ms
+customer_service::0016 FR    pred=19 true=18 lat=1868ms
+customer_service::0016 GR    pred=1 true=18 lat=1903ms
+customer_service::0016 GACA  pred=18 true=18 lat=2208ms
+customer_service::0036 VL    pred=11 true=15 lat=1475ms
+customer_service::0036 FR    pred=11 true=15 lat=1536ms
+customer_service::0036 GR    pred=11 true=15 lat=2629ms
+customer_service::0036 GACA  pred=11 true=15 lat=1637ms
+customer_service::0056 VL    pred=11 true=12 lat=1578ms
+customer_service::0056 FR    pred=11 true=12 lat=1460ms
+customer_service::0056 GR    pred=11 true=12 lat=1612ms
+customer_service::0056 GACA  pred=12 true=12 lat=2146ms
+customer_service::0076 VL    pred=1 true=9 lat=1388ms
+customer_service::0076 FR    pred=1 true=9 lat=1612ms
+customer_service::0076 GR    pred=9 true=9 lat=2298ms
+customer_service::0076 GACA  pred=9 true=9 lat=2183ms
+customer_service::0096 VL    pred=6 true=6 lat=2240ms
+customer_service::0096 FR    pred=6 true=6 lat=2255ms
+customer_service::0096 GR    pred=6 true=6 lat=2262ms
+customer_service::0096 GACA  pred=6 true=6 lat=2047ms
+customer_service::0017 VL    pred=19 true=19 lat=1817ms
+customer_service::0017 FR    pred=19 true=19 lat=1852ms
+customer_service::0017 GR    pred=19 true=19 lat=1792ms
+customer_service::0017 GACA  pred=19 true=19 lat=2194ms
+customer_service::0037 VL    pred=19 true=16 lat=1795ms
+customer_service::0037 FR    pred=19 true=16 lat=1798ms
+customer_service::0037 GR    pred=19 true=16 lat=1869ms
+customer_service::0037 GACA  pred=19 true=16 lat=2032ms
+customer_service::0057 VL    pred=19 true=13 lat=1612ms
+customer_service::0057 FR    pred=19 true=13 lat=1473ms
+customer_service::0057 GR    pred=19 true=13 lat=1362ms
+customer_service::0057 GACA  pred=13 true=13 lat=2212ms
+customer_service::0077 VL    pred=1 true=10 lat=1605ms
+customer_service::0077 FR    pred=9 true=10 lat=1199ms
+customer_service::0077 GR    pred=9 true=10 lat=1690ms
+customer_service::0077 GACA  pred=9 true=10 lat=1837ms
+customer_service::0097 VL    pred=9 true=7 lat=1540ms
+customer_service::0097 FR    pred=9 true=7 lat=1705ms
+customer_service::0097 GR    pred=1 true=7 lat=1527ms
+customer_service::0097 GACA  pred=9 true=7 lat=2550ms
+customer_service::0018 VL    pred=20 true=20 lat=1688ms
+customer_service::0018 FR    pred=20 true=20 lat=1823ms
+customer_service::0018 GR    pred=20 true=20 lat=1988ms
+customer_service::0018 GACA  pred=20 true=20 lat=2043ms
+customer_service::0038 VL    pred=11 true=17 lat=1521ms
+customer_service::0038 FR    pred=11 true=17 lat=1444ms
+customer_service::0038 GR    pred=19 true=17 lat=1385ms
+customer_service::0038 GACA  pred=19 true=17 lat=2313ms
+customer_service::0058 VL    pred=12 true=14 lat=1630ms
+customer_service::0058 FR    pred=12 true=14 lat=1548ms
+customer_service::0058 GR    pred=12 true=14 lat=1627ms
+customer_service::0058 GACA  pred=12 true=14 lat=2198ms
+customer_service::0078 VL    pred=11 true=11 lat=1496ms
+customer_service::0078 FR    pred=11 true=11 lat=2320ms
+customer_service::0078 GR    pred=11 true=11 lat=1421ms
+customer_service::0078 GACA  pred=11 true=11 lat=2276ms
+customer_service::0098 VL    pred=3 true=8 lat=1733ms
+customer_service::0098 FR    pred=19 true=8 lat=1234ms
+customer_service::0098 GR    pred=21 true=8 lat=1714ms
+customer_service::0098 GACA  pred=19 true=8 lat=1793ms
+customer_service::0019 VL    pred=19 true=21 lat=1609ms
+customer_service::0019 FR    pred=19 true=21 lat=1413ms
+customer_service::0019 GR    pred=19 true=21 lat=1705ms
+customer_service::0019 GACA  pred=19 true=21 lat=1796ms
+customer_service::0039 VL    pred=19 true=18 lat=1701ms
+customer_service::0039 FR    pred=19 true=18 lat=1506ms
+customer_service::0039 GR    pred=19 true=18 lat=1566ms
+customer_service::0039 GACA  pred=19 true=18 lat=1971ms
+customer_service::0059 VL    pred=11 true=15 lat=1557ms
+customer_service::0059 FR    pred=24 true=15 lat=1490ms
+customer_service::0059 GR    pred=24 true=15 lat=1663ms
+customer_service::0059 GACA  pred=24 true=15 lat=2014ms
+customer_service::0079 VL    pred=11 true=12 lat=1344ms
+customer_service::0079 FR    pred=11 true=12 lat=1360ms
+customer_service::0079 GR    pred=21 true=12 lat=1411ms
+customer_service::0079 GACA  pred=12 true=12 lat=2104ms
+customer_service::0099 VL    pred=1 true=9 lat=1608ms
+customer_service::0099 FR    pred=1 true=9 lat=1546ms
+customer_service::0099 GR    pred=9 true=9 lat=1820ms
+customer_service::0099 GACA  pred=9 true=9 lat=2048ms
+    healthcare::0000 VL    pred=10 true=1 lat=1705ms
+    healthcare::0000 FR    pred=10 true=1 lat=1515ms
+    healthcare::0000 GR    pred=1 true=1 lat=1594ms
+    healthcare::0000 GACA  pred=11 true=1 lat=2142ms
+    healthcare::0020 VL    pred=22 true=22 lat=1685ms
+    healthcare::0020 FR    pred=22 true=22 lat=1699ms
+    healthcare::0020 GR    pred=22 true=22 lat=1666ms
+    healthcare::0020 GACA  pred=22 true=22 lat=1792ms
+    healthcare::0040 VL    pred=19 true=19 lat=1788ms
+    healthcare::0040 FR    pred=19 true=19 lat=1740ms
+    healthcare::0040 GR    pred=19 true=19 lat=1700ms
+    healthcare::0040 GACA  pred=19 true=19 lat=2110ms
+    healthcare::0060 VL    pred=16 true=16 lat=1365ms
+    healthcare::0060 FR    pred=16 true=16 lat=2206ms
+    healthcare::0060 GR    pred=16 true=16 lat=1540ms
+    healthcare::0060 GACA  pred=16 true=16 lat=2240ms
+    healthcare::0080 VL    pred=21 true=13 lat=1714ms
+    healthcare::0080 FR    pred=21 true=13 lat=1483ms
+    healthcare::0080 GR    pred=21 true=13 lat=1631ms
+    healthcare::0080 GACA  pred=21 true=13 lat=2401ms
+    healthcare::0001 VL    pred=2 true=2 lat=1237ms
+    healthcare::0001 FR    pred=2 true=2 lat=1645ms
+    healthcare::0001 GR    pred=2 true=2 lat=1511ms
+    healthcare::0001 GACA  pred=2 true=2 lat=1931ms
+    healthcare::0021 VL    pred=11 true=23 lat=1520ms
+    healthcare::0021 FR    pred=11 true=23 lat=1580ms
+    healthcare::0021 GR    pred=11 true=23 lat=1566ms
+    healthcare::0021 GACA  pred=11 true=23 lat=2030ms
+    healthcare::0041 VL    pred=20 true=20 lat=1729ms
+    healthcare::0041 FR    pred=11 true=20 lat=2000ms
+    healthcare::0041 GR    pred=11 true=20 lat=1819ms
+    healthcare::0041 GACA  pred=16 true=20 lat=2634ms
+    healthcare::0061 VL    pred=11 true=17 lat=1342ms
+    healthcare::0061 FR    pred=11 true=17 lat=1494ms
+    healthcare::0061 GR    pred=17 true=17 lat=1945ms
+    healthcare::0061 GACA  pred=24 true=17 lat=2480ms
+    healthcare::0081 VL    pred=11 true=14 lat=1617ms
+    healthcare::0081 FR    pred=11 true=14 lat=1681ms
+    healthcare::0081 GR    pred=11 true=14 lat=1476ms
+    healthcare::0081 GACA  pred=14 true=14 lat=2307ms
+    healthcare::0002 VL    pred=3 true=3 lat=1500ms
+    healthcare::0002 FR    pred=3 true=3 lat=1699ms
+    healthcare::0002 GR    pred=3 true=3 lat=1544ms
+    healthcare::0002 GACA  pred=3 true=3 lat=2079ms
+    healthcare::0022 VL    pred=11 true=24 lat=1354ms
+    healthcare::0022 FR    pred=11 true=24 lat=1534ms
+    healthcare::0022 GR    pred=11 true=24 lat=1625ms
+    healthcare::0022 GACA  pred=21 true=24 lat=2019ms
+    healthcare::0042 VL    pred=21 true=21 lat=1508ms
+    healthcare::0042 FR    pred=21 true=21 lat=1267ms
+    healthcare::0042 GR    pred=21 true=21 lat=1856ms
+    healthcare::0042 GACA  pred=21 true=21 lat=2359ms
+    healthcare::0062 VL    pred=10 true=18 lat=1375ms
+    healthcare::0062 FR    pred=3 true=18 lat=1716ms
+    healthcare::0062 GR    pred=1 true=18 lat=1547ms
+    healthcare::0062 GACA  pred=11 true=18 lat=2329ms
+    healthcare::0082 VL    pred=11 true=15 lat=1446ms
+    healthcare::0082 FR    pred=11 true=15 lat=1504ms
+    healthcare::0082 GR    pred=11 true=15 lat=1709ms
+    healthcare::0082 GACA  pred=11 true=15 lat=2408ms
+    healthcare::0003 VL    pred=4 true=4 lat=1764ms
+    healthcare::0003 FR    pred=3 true=4 lat=1632ms
+    healthcare::0003 GR    pred=4 true=4 lat=2045ms
+    healthcare::0003 GACA  pred=4 true=4 lat=2149ms
+    healthcare::0023 VL    pred=10 true=1 lat=1146ms
+    healthcare::0023 FR    pred=10 true=1 lat=1475ms
+    healthcare::0023 GR    pred=10 true=1 lat=1607ms
+    healthcare::0023 GACA  pred=10 true=1 lat=2289ms
+    healthcare::0043 VL    pred=22 true=22 lat=1397ms
+    healthcare::0043 FR    pred=22 true=22 lat=1629ms
+    healthcare::0043 GR    pred=22 true=22 lat=1781ms
+    healthcare::0043 GACA  pred=22 true=22 lat=2297ms
+    healthcare::0063 VL    pred=3 true=19 lat=1528ms
+    healthcare::0063 FR    pred=3 true=19 lat=1992ms
+    healthcare::0063 GR    pred=3 true=19 lat=1602ms
+    healthcare::0063 GACA  pred=19 true=19 lat=2658ms
+    healthcare::0083 VL    pred=3 true=16 lat=1541ms
+    healthcare::0083 FR    pred=16 true=16 lat=1729ms
+    healthcare::0083 GR    pred=16 true=16 lat=1729ms
+    healthcare::0083 GACA  pred=16 true=16 lat=2777ms
+    healthcare::0004 VL    pred=11 true=6 lat=1435ms
+    healthcare::0004 FR    pred=11 true=6 lat=1631ms
+    healthcare::0004 GR    pred=15 true=6 lat=3460ms
+    healthcare::0004 GACA  pred=11 true=6 lat=2416ms
+    healthcare::0024 VL    pred=20 true=2 lat=1655ms
+    healthcare::0024 FR    pred=20 true=2 lat=2043ms
+    healthcare::0024 GR    pred=2 true=2 lat=1725ms
+    healthcare::0024 GACA  pred=20 true=2 lat=2601ms
+    healthcare::0044 VL    pred=11 true=23 lat=1404ms
+    healthcare::0044 FR    pred=11 true=23 lat=1857ms
+    healthcare::0044 GR    pred=11 true=23 lat=1686ms
+    healthcare::0044 GACA  pred=11 true=23 lat=2275ms
+    healthcare::0064 VL    pred=20 true=20 lat=1358ms
+    healthcare::0064 FR    pred=20 true=20 lat=2418ms
+    healthcare::0064 GR    pred=20 true=20 lat=1715ms
+    healthcare::0064 GACA  pred=20 true=20 lat=2555ms
+    healthcare::0084 VL    pred=11 true=17 lat=1657ms
+    healthcare::0084 FR    pred=11 true=17 lat=1575ms
+    healthcare::0084 GR    pred=15 true=17 lat=1772ms
+    healthcare::0084 GACA  pred=15 true=17 lat=2321ms
+    healthcare::0005 VL    pred=11 true=7 lat=1731ms
+    healthcare::0005 FR    pred=11 true=7 lat=1535ms
+    healthcare::0005 GR    pred=11 true=7 lat=1238ms
+    healthcare::0005 GACA  pred=11 true=7 lat=1975ms
+    healthcare::0025 VL    pred=3 true=3 lat=1605ms
+    healthcare::0025 FR    pred=11 true=3 lat=1074ms
+    healthcare::0025 GR    pred=11 true=3 lat=1795ms
+    healthcare::0025 GACA  pred=11 true=3 lat=2478ms
+    healthcare::0045 VL    pred=15 true=24 lat=1746ms
+    healthcare::0045 FR    pred=15 true=24 lat=1612ms
+    healthcare::0045 GR    pred=21 true=24 lat=1585ms
+    healthcare::0045 GACA  pred=21 true=24 lat=2713ms
+    healthcare::0065 VL    pred=21 true=21 lat=1686ms
+    healthcare::0065 FR    pred=21 true=21 lat=1891ms
+    healthcare::0065 GR    pred=21 true=21 lat=1838ms
+    healthcare::0065 GACA  pred=21 true=21 lat=2492ms
+    healthcare::0085 VL    pred=11 true=18 lat=1675ms
+    healthcare::0085 FR    pred=11 true=18 lat=1580ms
+    healthcare::0085 GR    pred=11 true=18 lat=1901ms
+    healthcare::0085 GACA  pred=11 true=18 lat=2414ms
+    healthcare::0006 VL    pred=11 true=8 lat=1601ms
+    healthcare::0006 FR    pred=11 true=8 lat=1613ms
+    healthcare::0006 GR    pred=11 true=8 lat=1440ms
+    healthcare::0006 GACA  pred=11 true=8 lat=2141ms
+    healthcare::0026 VL    pred=3 true=4 lat=1731ms
+    healthcare::0026 FR    pred=3 true=4 lat=1686ms
+    healthcare::0026 GR    pred=3 true=4 lat=1596ms
+    healthcare::0026 GACA  pred=3 true=4 lat=1843ms
+    healthcare::0046 VL    pred=10 true=1 lat=1623ms
+    healthcare::0046 FR    pred=10 true=1 lat=1627ms
+    healthcare::0046 GR    pred=1 true=1 lat=1679ms
+    healthcare::0046 GACA  pred=10 true=1 lat=2606ms
+    healthcare::0066 VL    pred=22 true=22 lat=1416ms
+    healthcare::0066 FR    pred=22 true=22 lat=1636ms
+    healthcare::0066 GR    pred=22 true=22 lat=1550ms
+    healthcare::0066 GACA  pred=12 true=22 lat=2549ms
+    healthcare::0086 VL    pred=2 true=19 lat=1708ms
+    healthcare::0086 FR    pred=2 true=19 lat=1441ms
+    healthcare::0086 GR    pred=2 true=19 lat=1848ms
+    healthcare::0086 GACA  pred=19 true=19 lat=2416ms
+    healthcare::0007 VL    pred=11 true=9 lat=1328ms
+    healthcare::0007 FR    pred=11 true=9 lat=1558ms
+    healthcare::0007 GR    pred=9 true=9 lat=1670ms
+    healthcare::0007 GACA  pred=11 true=9 lat=1857ms
+    healthcare::0027 VL    pred=11 true=6 lat=1429ms
+    healthcare::0027 FR    pred=6 true=6 lat=1283ms
+    healthcare::0027 GR    pred=6 true=6 lat=1813ms
+    healthcare::0027 GACA  pred=11 true=6 lat=1850ms
+    healthcare::0047 VL    pred=20 true=2 lat=2441ms
+    healthcare::0047 FR    pred=20 true=2 lat=1342ms
+    healthcare::0047 GR    pred=2 true=2 lat=1904ms
+    healthcare::0047 GACA  pred=20 true=2 lat=2082ms
+    healthcare::0067 VL    pred=16 true=23 lat=1542ms
+    healthcare::0067 FR    pred=11 true=23 lat=1352ms
+    healthcare::0067 GR    pred=16 true=23 lat=1241ms
+    healthcare::0067 GACA  pred=11 true=23 lat=2004ms
+    healthcare::0087 VL    pred=11 true=20 lat=1633ms
+    healthcare::0087 FR    pred=11 true=20 lat=1153ms
+    healthcare::0087 GR    pred=11 true=20 lat=1618ms
+    healthcare::0087 GACA  pred=11 true=20 lat=2229ms
+    healthcare::0008 VL    pred=11 true=10 lat=1697ms
+    healthcare::0008 FR    pred=11 true=10 lat=1397ms
+    healthcare::0008 GR    pred=11 true=10 lat=1391ms
+    healthcare::0008 GACA  pred=11 true=10 lat=2246ms
+    healthcare::0028 VL    pred=11 true=7 lat=1236ms
+    healthcare::0028 FR    pred=11 true=7 lat=1338ms
+    healthcare::0028 GR    pred=11 true=7 lat=1425ms
+    healthcare::0028 GACA  pred=11 true=7 lat=1843ms
+    healthcare::0048 VL    pred=3 true=3 lat=1512ms
+    healthcare::0048 FR    pred=3 true=3 lat=1539ms
+    healthcare::0048 GR    pred=3 true=3 lat=1765ms
+    healthcare::0048 GACA  pred=11 true=3 lat=1910ms
+    healthcare::0068 VL    pred=11 true=24 lat=2001ms
+    healthcare::0068 FR    pred=15 true=24 lat=1633ms
+    healthcare::0068 GR    pred=11 true=24 lat=1555ms
+    healthcare::0068 GACA  pred=11 true=24 lat=2080ms
+    healthcare::0088 VL    pred=21 true=21 lat=1643ms
+    healthcare::0088 FR    pred=21 true=21 lat=1661ms
+    healthcare::0088 GR    pred=21 true=21 lat=1401ms
+    healthcare::0088 GACA  pred=21 true=21 lat=2149ms
+    healthcare::0009 VL    pred=11 true=11 lat=1551ms
+    healthcare::0009 FR    pred=11 true=11 lat=1298ms
+    healthcare::0009 GR    pred=11 true=11 lat=1293ms
+    healthcare::0009 GACA  pred=11 true=11 lat=2047ms
+    healthcare::0029 VL    pred=11 true=8 lat=1844ms
+    healthcare::0029 FR    pred=11 true=8 lat=1405ms
+    healthcare::0029 GR    pred=11 true=8 lat=1610ms
+    healthcare::0029 GACA  pred=11 true=8 lat=2658ms
+    healthcare::0049 VL    pred=3 true=4 lat=1747ms
+    healthcare::0049 FR    pred=3 true=4 lat=1377ms
+    healthcare::0049 GR    pred=3 true=4 lat=1654ms
+    healthcare::0049 GACA  pred=4 true=4 lat=2061ms
+    healthcare::0069 VL    pred=11 true=1 lat=1448ms
+    healthcare::0069 FR    pred=11 true=1 lat=1412ms
+    healthcare::0069 GR    pred=11 true=1 lat=1847ms
+    healthcare::0069 GACA  pred=11 true=1 lat=2687ms
+    healthcare::0089 VL    pred=11 true=22 lat=1850ms
+    healthcare::0089 FR    pred=22 true=22 lat=1414ms
+    healthcare::0089 GR    pred=11 true=22 lat=1491ms
+    healthcare::0089 GACA  pred=22 true=22 lat=2172ms
+    healthcare::0010 VL    pred=11 true=12 lat=1617ms
+    healthcare::0010 FR    pred=11 true=12 lat=1320ms
+    healthcare::0010 GR    pred=21 true=12 lat=1885ms
+    healthcare::0010 GACA  pred=12 true=12 lat=1864ms
+    healthcare::0030 VL    pred=11 true=9 lat=1674ms
+    healthcare::0030 FR    pred=11 true=9 lat=1604ms
+    healthcare::0030 GR    pred=11 true=9 lat=1457ms
+    healthcare::0030 GACA  pred=9 true=9 lat=1897ms
+    healthcare::0050 VL    pred=11 true=6 lat=1334ms
+    healthcare::0050 FR    pred=11 true=6 lat=1512ms
+    healthcare::0050 GR    pred=11 true=6 lat=1322ms
+    healthcare::0050 GACA  pred=11 true=6 lat=2085ms
+    healthcare::0070 VL    pred=3 true=2 lat=1602ms
+    healthcare::0070 FR    pred=2 true=2 lat=1784ms
+    healthcare::0070 GR    pred=16 true=2 lat=2156ms
+    healthcare::0070 GACA  pred=11 true=2 lat=1825ms
+    healthcare::0090 VL    pred=3 true=23 lat=1569ms
+    healthcare::0090 FR    pred=3 true=23 lat=1770ms
+    healthcare::0090 GR    pred=11 true=23 lat=2030ms
+    healthcare::0090 GACA  pred=16 true=23 lat=2377ms
+    healthcare::0011 VL    pred=21 true=13 lat=1856ms
+    healthcare::0011 FR    pred=11 true=13 lat=1436ms
+    healthcare::0011 GR    pred=21 true=13 lat=1604ms
+    healthcare::0011 GACA  pred=13 true=13 lat=2070ms
+    healthcare::0031 VL    pred=10 true=10 lat=1363ms
+    healthcare::0031 FR    pred=11 true=10 lat=1377ms
+    healthcare::0031 GR    pred=10 true=10 lat=1866ms
+    healthcare::0031 GACA  pred=11 true=10 lat=2824ms
+    healthcare::0051 VL    pred=20 true=7 lat=1634ms
+    healthcare::0051 FR    pred=20 true=7 lat=1523ms
+    healthcare::0051 GR    pred=20 true=7 lat=1661ms
+    healthcare::0051 GACA  pred=20 true=7 lat=2125ms
+    healthcare::0071 VL    pred=3 true=3 lat=1624ms
+    healthcare::0071 FR    pred=3 true=3 lat=1531ms
+    healthcare::0071 GR    pred=3 true=3 lat=1495ms
+    healthcare::0071 GACA  pred=11 true=3 lat=2621ms
+    healthcare::0091 VL    pred=11 true=24 lat=1458ms
+    healthcare::0091 FR    pred=11 true=24 lat=1607ms
+    healthcare::0091 GR    pred=11 true=24 lat=1498ms
+    healthcare::0091 GACA  pred=11 true=24 lat=2076ms
+    healthcare::0012 VL    pred=11 true=14 lat=1554ms
+    healthcare::0012 FR    pred=11 true=14 lat=1147ms
+    healthcare::0012 GR    pred=11 true=14 lat=1610ms
+    healthcare::0012 GACA  pred=14 true=14 lat=2018ms
+    healthcare::0032 VL    pred=11 true=11 lat=1590ms
+    healthcare::0032 FR    pred=11 true=11 lat=1487ms
+    healthcare::0032 GR    pred=11 true=11 lat=1641ms
+    healthcare::0032 GACA  pred=11 true=11 lat=2865ms
+    healthcare::0052 VL    pred=11 true=8 lat=1397ms
+    healthcare::0052 FR    pred=11 true=8 lat=1552ms
+    healthcare::0052 GR    pred=11 true=8 lat=2069ms
+    healthcare::0052 GACA  pred=11 true=8 lat=2028ms
+    healthcare::0072 VL    pred=3 true=4 lat=1565ms
+    healthcare::0072 FR    pred=3 true=4 lat=1581ms
+    healthcare::0072 GR    pred=3 true=4 lat=1741ms
+    healthcare::0072 GACA  pred=3 true=4 lat=2095ms
+    healthcare::0092 VL    pred=11 true=1 lat=1370ms
+    healthcare::0092 FR    pred=10 true=1 lat=1659ms
+    healthcare::0092 GR    pred=10 true=1 lat=1383ms
+    healthcare::0092 GACA  pred=10 true=1 lat=2082ms
+    healthcare::0013 VL    pred=11 true=15 lat=1282ms
+    healthcare::0013 FR    pred=11 true=15 lat=1463ms
+    healthcare::0013 GR    pred=11 true=15 lat=1497ms
+    healthcare::0013 GACA  pred=11 true=15 lat=1854ms
+    healthcare::0033 VL    pred=11 true=12 lat=1388ms
+    healthcare::0033 FR    pred=11 true=12 lat=1735ms
+    healthcare::0033 GR    pred=11 true=12 lat=1551ms
+    healthcare::0033 GACA  pred=12 true=12 lat=1870ms
+    healthcare::0053 VL    pred=11 true=9 lat=1601ms
+    healthcare::0053 FR    pred=11 true=9 lat=1677ms
+    healthcare::0053 GR    pred=11 true=9 lat=1729ms
+    healthcare::0053 GACA  pred=11 true=9 lat=2352ms
+    healthcare::0073 VL    pred=11 true=6 lat=1641ms
+    healthcare::0073 FR    pred=11 true=6 lat=1522ms
+    healthcare::0073 GR    pred=11 true=6 lat=1580ms
+    healthcare::0073 GACA  pred=11 true=6 lat=2300ms
+    healthcare::0093 VL    pred=2 true=2 lat=1449ms
+    healthcare::0093 FR    pred=2 true=2 lat=1537ms
+    healthcare::0093 GR    pred=11 true=2 lat=2227ms
+    healthcare::0093 GACA  pred=11 true=2 lat=2435ms
+    healthcare::0014 VL    pred=16 true=16 lat=1469ms
+    healthcare::0014 FR    pred=16 true=16 lat=1682ms
+    healthcare::0014 GR    pred=16 true=16 lat=1927ms
+    healthcare::0014 GACA  pred=16 true=16 lat=2327ms
+    healthcare::0034 VL    pred=20 true=13 lat=1467ms
+    healthcare::0034 FR    pred=20 true=13 lat=1757ms
+    healthcare::0034 GR    pred=11 true=13 lat=1473ms
+    healthcare::0034 GACA  pred=13 true=13 lat=2551ms
+    healthcare::0054 VL    pred=10 true=10 lat=2224ms
+    healthcare::0054 FR    pred=11 true=10 lat=2119ms
+    healthcare::0054 GR    pred=10 true=10 lat=1584ms
+    healthcare::0054 GACA  pred=10 true=10 lat=2468ms
+    healthcare::0074 VL    pred=11 true=7 lat=1875ms
+    healthcare::0074 FR    pred=11 true=7 lat=1551ms
+    healthcare::0074 GR    pred=11 true=7 lat=1527ms
+    healthcare::0074 GACA  pred=11 true=7 lat=2233ms
+    healthcare::0094 VL    pred=3 true=3 lat=1375ms
+    healthcare::0094 FR    pred=3 true=3 lat=1648ms
+    healthcare::0094 GR    pred=3 true=3 lat=1574ms
+    healthcare::0094 GACA  pred=3 true=3 lat=2649ms
+    healthcare::0015 VL    pred=11 true=17 lat=1623ms
+    healthcare::0015 FR    pred=11 true=17 lat=1676ms
+    healthcare::0015 GR    pred=2 true=17 lat=2075ms
+    healthcare::0015 GACA  pred=17 true=17 lat=2178ms
+    healthcare::0035 VL    pred=11 true=14 lat=1327ms
+    healthcare::0035 FR    pred=11 true=14 lat=1536ms
+    healthcare::0035 GR    pred=11 true=14 lat=1566ms
+    healthcare::0035 GACA  pred=14 true=14 lat=2525ms
+    healthcare::0055 VL    pred=11 true=11 lat=1327ms
+    healthcare::0055 FR    pred=11 true=11 lat=1417ms
+    healthcare::0055 GR    pred=11 true=11 lat=1614ms
+    healthcare::0055 GACA  pred=11 true=11 lat=2071ms
+    healthcare::0075 VL    pred=11 true=8 lat=1676ms
+    healthcare::0075 FR    pred=11 true=8 lat=1346ms
+    healthcare::0075 GR    pred=11 true=8 lat=1610ms
+    healthcare::0075 GACA  pred=11 true=8 lat=2071ms
+    healthcare::0095 VL    pred=4 true=4 lat=1713ms
+    healthcare::0095 FR    pred=3 true=4 lat=1589ms
+    healthcare::0095 GR    pred=3 true=4 lat=1539ms
+    healthcare::0095 GACA  pred=3 true=4 lat=1911ms
+    healthcare::0016 VL    pred=11 true=18 lat=1488ms
+    healthcare::0016 FR    pred=11 true=18 lat=1772ms
+    healthcare::0016 GR    pred=11 true=18 lat=1448ms
+    healthcare::0016 GACA  pred=11 true=18 lat=2127ms
+    healthcare::0036 VL    pred=11 true=15 lat=1390ms
+    healthcare::0036 FR    pred=11 true=15 lat=1364ms
+    healthcare::0036 GR    pred=11 true=15 lat=1517ms
+    healthcare::0036 GACA  pred=11 true=15 lat=1984ms
+    healthcare::0056 VL    pred=11 true=12 lat=1579ms
+    healthcare::0056 FR    pred=11 true=12 lat=1552ms
+    healthcare::0056 GR    pred=11 true=12 lat=1643ms
+    healthcare::0056 GACA  pred=12 true=12 lat=2427ms
+    healthcare::0076 VL    pred=11 true=9 lat=1376ms
+    healthcare::0076 FR    pred=11 true=9 lat=2412ms
+    healthcare::0076 GR    pred=10 true=9 lat=1501ms
+    healthcare::0076 GACA  pred=11 true=9 lat=1762ms
+    healthcare::0096 VL    pred=11 true=6 lat=1811ms
+    healthcare::0096 FR    pred=11 true=6 lat=1366ms
+    healthcare::0096 GR    pred=11 true=6 lat=1516ms
+    healthcare::0096 GACA  pred=11 true=6 lat=1473ms
+    healthcare::0017 VL    pred=19 true=19 lat=1440ms
+    healthcare::0017 FR    pred=2 true=19 lat=1413ms
+    healthcare::0017 GR    pred=2 true=19 lat=1437ms
+    healthcare::0017 GACA  pred=19 true=19 lat=1890ms
+    healthcare::0037 VL    pred=16 true=16 lat=1399ms
+    healthcare::0037 FR    pred=11 true=16 lat=2234ms
+    healthcare::0037 GR    pred=16 true=16 lat=2172ms
+    healthcare::0037 GACA  pred=22 true=16 lat=2328ms
+    healthcare::0057 VL    pred=20 true=13 lat=1391ms
+    healthcare::0057 FR    pred=11 true=13 lat=1316ms
+    healthcare::0057 GR    pred=20 true=13 lat=1995ms
+    healthcare::0057 GACA  pred=13 true=13 lat=2227ms
+    healthcare::0077 VL    pred=10 true=10 lat=1636ms
+    healthcare::0077 FR    pred=11 true=10 lat=1564ms
+    healthcare::0077 GR    pred=10 true=10 lat=1583ms
+    healthcare::0077 GACA  pred=11 true=10 lat=1953ms
+    healthcare::0097 VL    pred=11 true=7 lat=1338ms
+    healthcare::0097 FR    pred=11 true=7 lat=1828ms
+    healthcare::0097 GR    pred=11 true=7 lat=1521ms
+    healthcare::0097 GACA  pred=11 true=7 lat=1937ms
+    healthcare::0018 VL    pred=20 true=20 lat=1603ms
+    healthcare::0018 FR    pred=20 true=20 lat=1554ms
+    healthcare::0018 GR    pred=20 true=20 lat=2009ms
+    healthcare::0018 GACA  pred=20 true=20 lat=2090ms
+    healthcare::0038 VL    pred=11 true=17 lat=1348ms
+    healthcare::0038 FR    pred=11 true=17 lat=1537ms
+    healthcare::0038 GR    pred=11 true=17 lat=1822ms
+    healthcare::0038 GACA  pred=11 true=17 lat=1910ms
+    healthcare::0058 VL    pred=20 true=14 lat=1935ms
+    healthcare::0058 FR    pred=20 true=14 lat=1804ms
+    healthcare::0058 GR    pred=20 true=14 lat=1600ms
+    healthcare::0058 GACA  pred=14 true=14 lat=2584ms
+    healthcare::0078 VL    pred=11 true=11 lat=1795ms
+    healthcare::0078 FR    pred=11 true=11 lat=1408ms
+    healthcare::0078 GR    pred=11 true=11 lat=2807ms
+    healthcare::0078 GACA  pred=11 true=11 lat=4797ms
+    healthcare::0098 VL    pred=11 true=8 lat=1494ms
+    healthcare::0098 FR    pred=11 true=8 lat=1343ms
+    healthcare::0098 GR    pred=11 true=8 lat=1383ms
+    healthcare::0098 GACA  pred=11 true=8 lat=2653ms
+    healthcare::0019 VL    pred=11 true=21 lat=1566ms
+    healthcare::0019 FR    pred=21 true=21 lat=1706ms
+    healthcare::0019 GR    pred=21 true=21 lat=1576ms
+    healthcare::0019 GACA  pred=21 true=21 lat=2201ms
+    healthcare::0039 VL    pred=1 true=18 lat=1494ms
+    healthcare::0039 FR    pred=11 true=18 lat=1383ms
+    healthcare::0039 GR    pred=21 true=18 lat=1672ms
+    healthcare::0039 GACA  pred=11 true=18 lat=2160ms
+    healthcare::0059 VL    pred=11 true=15 lat=1529ms
+    healthcare::0059 FR    pred=11 true=15 lat=1388ms
+    healthcare::0059 GR    pred=11 true=15 lat=1628ms
+    healthcare::0059 GACA  pred=11 true=15 lat=2402ms
+    healthcare::0079 VL    pred=11 true=12 lat=1623ms
+    healthcare::0079 FR    pred=11 true=12 lat=1828ms
+    healthcare::0079 GR    pred=11 true=12 lat=1637ms
+    healthcare::0079 GACA  pred=12 true=12 lat=2278ms
+    healthcare::0099 VL    pred=11 true=9 lat=1557ms
+    healthcare::0099 FR    pred=11 true=9 lat=1577ms
+    healthcare::0099 GR    pred=10 true=9 lat=2762ms
+    healthcare::0099 GACA  pred=10 true=9 lat=2484ms
+      teaching::0000 VL    pred=1 true=1 lat=1705ms
+      teaching::0000 FR    pred=11 true=1 lat=1333ms
+      teaching::0000 GR    pred=1 true=1 lat=1674ms
+      teaching::0000 GACA  pred=11 true=1 lat=2178ms
+      teaching::0020 VL    pred=21 true=21 lat=1595ms
+      teaching::0020 FR    pred=21 true=21 lat=1718ms
+      teaching::0020 GR    pred=21 true=21 lat=1770ms
+      teaching::0020 GACA  pred=21 true=21 lat=2933ms
+      teaching::0040 VL    pred=17 true=17 lat=2102ms
+      teaching::0040 FR    pred=17 true=17 lat=1556ms
+      teaching::0040 GR    pred=17 true=17 lat=1651ms
+      teaching::0040 GACA  pred=17 true=17 lat=2457ms
+      teaching::0060 VL    pred=5 true=13 lat=1714ms
+      teaching::0060 FR    pred=5 true=13 lat=1545ms
+      teaching::0060 GR    pred=5 true=13 lat=1769ms
+      teaching::0060 GACA  pred=5 true=13 lat=2277ms
+      teaching::0080 VL    pred=11 true=9 lat=1542ms
+      teaching::0080 FR    pred=11 true=9 lat=1615ms
+      teaching::0080 GR    pred=11 true=9 lat=1366ms
+      teaching::0080 GACA  pred=11 true=9 lat=1917ms
+      teaching::0001 VL    pred=1 true=2 lat=1548ms
+      teaching::0001 FR    pred=1 true=2 lat=1687ms
+      teaching::0001 GR    pred=1 true=2 lat=1677ms
+      teaching::0001 GACA  pred=1 true=2 lat=2111ms
+      teaching::0021 VL    pred=5 true=22 lat=1721ms
+      teaching::0021 FR    pred=22 true=22 lat=1718ms
+      teaching::0021 GR    pred=5 true=22 lat=1561ms
+      teaching::0021 GACA  pred=22 true=22 lat=2503ms
+      teaching::0041 VL    pred=18 true=18 lat=1846ms
+      teaching::0041 FR    pred=18 true=18 lat=1670ms
+      teaching::0041 GR    pred=18 true=18 lat=1686ms
+      teaching::0041 GACA  pred=18 true=18 lat=2168ms
+      teaching::0061 VL    pred=5 true=14 lat=1228ms
+      teaching::0061 FR    pred=14 true=14 lat=1852ms
+      teaching::0061 GR    pred=14 true=14 lat=1463ms
+      teaching::0061 GACA  pred=14 true=14 lat=2286ms
+      teaching::0081 VL    pred=11 true=10 lat=1680ms
+      teaching::0081 FR    pred=11 true=10 lat=1678ms
+      teaching::0081 GR    pred=11 true=10 lat=1596ms
+      teaching::0081 GACA  pred=11 true=10 lat=2420ms
+      teaching::0002 VL    pred=3 true=3 lat=1654ms
+      teaching::0002 FR    pred=3 true=3 lat=1625ms
+      teaching::0002 GR    pred=3 true=3 lat=2243ms
+      teaching::0002 GACA  pred=3 true=3 lat=2072ms
+      teaching::0022 VL    pred=8 true=23 lat=1907ms
+      teaching::0022 FR    pred=11 true=23 lat=1795ms
+      teaching::0022 GR    pred=11 true=23 lat=1505ms
+      teaching::0022 GACA  pred=18 true=23 lat=2396ms
+      teaching::0042 VL    pred=19 true=19 lat=1636ms
+      teaching::0042 FR    pred=19 true=19 lat=1684ms
+      teaching::0042 GR    pred=19 true=19 lat=1848ms
+      teaching::0042 GACA  pred=19 true=19 lat=2197ms
+      teaching::0062 VL    pred=5 true=15 lat=1711ms
+      teaching::0062 FR    pred=5 true=15 lat=1751ms
+      teaching::0062 GR    pred=5 true=15 lat=1821ms
+      teaching::0062 GACA  pred=5 true=15 lat=2161ms
+      teaching::0082 VL    pred=11 true=11 lat=1314ms
+      teaching::0082 FR    pred=11 true=11 lat=1415ms
+      teaching::0082 GR    pred=17 true=11 lat=1859ms
+      teaching::0082 GACA  pred=11 true=11 lat=3417ms
+      teaching::0003 VL    pred=4 true=4 lat=1705ms
+      teaching::0003 FR    pred=4 true=4 lat=1892ms
+      teaching::0003 GR    pred=4 true=4 lat=1785ms
+      teaching::0003 GACA  pred=4 true=4 lat=2163ms
+      teaching::0023 VL    pred=4 true=24 lat=1778ms
+      teaching::0023 FR    pred=19 true=24 lat=1917ms
+      teaching::0023 GR    pred=19 true=24 lat=1782ms
+      teaching::0023 GACA  pred=19 true=24 lat=2413ms
+      teaching::0043 VL    pred=20 true=20 lat=1751ms
+      teaching::0043 FR    pred=20 true=20 lat=1743ms
+      teaching::0043 GR    pred=20 true=20 lat=1592ms
+      teaching::0043 GACA  pred=20 true=20 lat=2515ms
+      teaching::0063 VL    pred=10 true=16 lat=1845ms
+      teaching::0063 FR    pred=10 true=16 lat=1655ms
+      teaching::0063 GR    pred=10 true=16 lat=1837ms
+      teaching::0063 GACA  pred=16 true=16 lat=2080ms
+      teaching::0083 VL    pred=19 true=12 lat=1586ms
+      teaching::0083 FR    pred=19 true=12 lat=1611ms
+      teaching::0083 GR    pred=19 true=12 lat=1693ms
+      teaching::0083 GACA  pred=12 true=12 lat=2052ms
+      teaching::0004 VL    pred=5 true=5 lat=1251ms
+      teaching::0004 FR    pred=5 true=5 lat=1772ms
+      teaching::0004 GR    pred=5 true=5 lat=1899ms
+      teaching::0004 GACA  pred=5 true=5 lat=2585ms
+      teaching::0024 VL    pred=1 true=1 lat=1667ms
+      teaching::0024 FR    pred=11 true=1 lat=1427ms
+      teaching::0024 GR    pred=1 true=1 lat=1420ms
+      teaching::0024 GACA  pred=11 true=1 lat=1845ms
+      teaching::0044 VL    pred=21 true=21 lat=1826ms
+      teaching::0044 FR    pred=21 true=21 lat=1692ms
+      teaching::0044 GR    pred=21 true=21 lat=2073ms
+      teaching::0044 GACA  pred=21 true=21 lat=2610ms
+      teaching::0064 VL    pred=5 true=17 lat=1482ms
+      teaching::0064 FR    pred=17 true=17 lat=1430ms
+      teaching::0064 GR    pred=17 true=17 lat=1736ms
+      teaching::0064 GACA  pred=17 true=17 lat=2182ms
+      teaching::0084 VL    pred=10 true=13 lat=1657ms
+      teaching::0084 FR    pred=13 true=13 lat=1775ms
+      teaching::0084 GR    pred=17 true=13 lat=1659ms
+      teaching::0084 GACA  pred=13 true=13 lat=2110ms
+      teaching::0005 VL    pred=5 true=6 lat=1907ms
+      teaching::0005 FR    pred=5 true=6 lat=1619ms
+      teaching::0005 GR    pred=5 true=6 lat=1838ms
+      teaching::0005 GACA  pred=5 true=6 lat=3572ms
+      teaching::0025 VL    pred=1 true=2 lat=1668ms
+      teaching::0025 FR    pred=11 true=2 lat=1587ms
+      teaching::0025 GR    pred=1 true=2 lat=1801ms
+      teaching::0025 GACA  pred=11 true=2 lat=1821ms
+      teaching::0045 VL    pred=22 true=22 lat=1570ms
+      teaching::0045 FR    pred=22 true=22 lat=1677ms
+      teaching::0045 GR    pred=19 true=22 lat=1607ms
+      teaching::0045 GACA  pred=22 true=22 lat=2088ms
+      teaching::0065 VL    pred=18 true=18 lat=1883ms
+      teaching::0065 FR    pred=18 true=18 lat=1712ms
+      teaching::0065 GR    pred=18 true=18 lat=1476ms
+      teaching::0065 GACA  pred=18 true=18 lat=2184ms
+      teaching::0085 VL    pred=14 true=14 lat=1959ms
+      teaching::0085 FR    pred=14 true=14 lat=1395ms
+      teaching::0085 GR    pred=14 true=14 lat=2280ms
+      teaching::0085 GACA  pred=14 true=14 lat=2128ms
+      teaching::0006 VL    pred=11 true=7 lat=2201ms
+      teaching::0006 FR    pred=11 true=7 lat=1821ms
+      teaching::0006 GR    pred=7 true=7 lat=1983ms
+      teaching::0006 GACA  pred=11 true=7 lat=2276ms
+      teaching::0026 VL    pred=3 true=3 lat=1735ms
+      teaching::0026 FR    pred=3 true=3 lat=1849ms
+      teaching::0026 GR    pred=3 true=3 lat=1657ms
+      teaching::0026 GACA  pred=3 true=3 lat=1733ms
+      teaching::0046 VL    pred=8 true=23 lat=1615ms
+      teaching::0046 FR    pred=11 true=23 lat=1565ms
+      teaching::0046 GR    pred=11 true=23 lat=1924ms
+      teaching::0046 GACA  pred=11 true=23 lat=2341ms
+      teaching::0066 VL    pred=19 true=19 lat=1456ms
+      teaching::0066 FR    pred=19 true=19 lat=1684ms
+      teaching::0066 GR    pred=19 true=19 lat=1718ms
+      teaching::0066 GACA  pred=19 true=19 lat=1907ms
+      teaching::0086 VL    pred=5 true=15 lat=1665ms
+      teaching::0086 FR    pred=5 true=15 lat=1706ms
+      teaching::0086 GR    pred=5 true=15 lat=1677ms
+      teaching::0086 GACA  pred=5 true=15 lat=1791ms
+      teaching::0007 VL    pred=11 true=8 lat=1714ms
+      teaching::0007 FR    pred=11 true=8 lat=1477ms
+      teaching::0007 GR    pred=11 true=8 lat=1415ms
+      teaching::0007 GACA  pred=17 true=8 lat=2046ms
+      teaching::0027 VL    pred=4 true=4 lat=1398ms
+      teaching::0027 FR    pred=4 true=4 lat=1508ms
+      teaching::0027 GR    pred=4 true=4 lat=1674ms
+      teaching::0027 GACA  pred=5 true=4 lat=2560ms
+      teaching::0047 VL    pred=11 true=24 lat=1496ms
+      teaching::0047 FR    pred=11 true=24 lat=1651ms
+      teaching::0047 GR    pred=11 true=24 lat=1795ms
+      teaching::0047 GACA  pred=11 true=24 lat=2424ms
+      teaching::0067 VL    pred=20 true=20 lat=1629ms
+      teaching::0067 FR    pred=20 true=20 lat=1856ms
+      teaching::0067 GR    pred=20 true=20 lat=1454ms
+      teaching::0067 GACA  pred=20 true=20 lat=2881ms
+      teaching::0087 VL    pred=10 true=16 lat=1666ms
+      teaching::0087 FR    pred=10 true=16 lat=1535ms
+      teaching::0087 GR    pred=10 true=16 lat=1775ms
+      teaching::0087 GACA  pred=16 true=16 lat=1931ms
+      teaching::0008 VL    pred=11 true=9 lat=1482ms
+      teaching::0008 FR    pred=11 true=9 lat=1716ms
+      teaching::0008 GR    pred=9 true=9 lat=1613ms
+      teaching::0008 GACA  pred=9 true=9 lat=2363ms
+      teaching::0028 VL    pred=5 true=5 lat=1840ms
+      teaching::0028 FR    pred=5 true=5 lat=1433ms
+      teaching::0028 GR    pred=5 true=5 lat=1619ms
+      teaching::0028 GACA  pred=6 true=5 lat=2065ms
+      teaching::0048 VL    pred=11 true=1 lat=2054ms
+      teaching::0048 FR    pred=11 true=1 lat=2201ms
+      teaching::0048 GR    pred=11 true=1 lat=1508ms
+      teaching::0048 GACA  pred=11 true=1 lat=1761ms
+      teaching::0068 VL    pred=11 true=21 lat=1380ms
+      teaching::0068 FR    pred=11 true=21 lat=1642ms
+      teaching::0068 GR    pred=11 true=21 lat=1451ms
+      teaching::0068 GACA  pred=16 true=21 lat=2417ms
+      teaching::0088 VL    pred=11 true=17 lat=1900ms
+      teaching::0088 FR    pred=11 true=17 lat=2026ms
+      teaching::0088 GR    pred=17 true=17 lat=1598ms
+      teaching::0088 GACA  pred=11 true=17 lat=2209ms
+      teaching::0009 VL    pred=10 true=10 lat=1611ms
+      teaching::0009 FR    pred=1 true=10 lat=1420ms
+      teaching::0009 GR    pred=1 true=10 lat=1647ms
+      teaching::0009 GACA  pred=10 true=10 lat=1942ms
+      teaching::0029 VL    pred=5 true=6 lat=1754ms
+      teaching::0029 FR    pred=5 true=6 lat=1876ms
+      teaching::0029 GR    pred=5 true=6 lat=1579ms
+      teaching::0029 GACA  pred=6 true=6 lat=3080ms
+      teaching::0049 VL    pred=11 true=2 lat=1533ms
+      teaching::0049 FR    pred=11 true=2 lat=2006ms
+      teaching::0049 GR    pred=11 true=2 lat=1745ms
+      teaching::0049 GACA  pred=11 true=2 lat=2417ms
+      teaching::0069 VL    pred=19 true=22 lat=1787ms
+      teaching::0069 FR    pred=19 true=22 lat=1684ms
+      teaching::0069 GR    pred=19 true=22 lat=1706ms
+      teaching::0069 GACA  pred=23 true=22 lat=2423ms
+      teaching::0089 VL    pred=18 true=18 lat=1801ms
+      teaching::0089 FR    pred=18 true=18 lat=1756ms
+      teaching::0089 GR    pred=18 true=18 lat=1698ms
+      teaching::0089 GACA  pred=18 true=18 lat=2204ms
+      teaching::0010 VL    pred=11 true=11 lat=1582ms
+      teaching::0010 FR    pred=11 true=11 lat=1707ms
+      teaching::0010 GR    pred=11 true=11 lat=1527ms
+      teaching::0010 GACA  pred=11 true=11 lat=2342ms
+      teaching::0030 VL    pred=11 true=7 lat=1761ms
+      teaching::0030 FR    pred=11 true=7 lat=1423ms
+      teaching::0030 GR    pred=11 true=7 lat=1452ms
+      teaching::0030 GACA  pred=11 true=7 lat=2231ms
+      teaching::0050 VL    pred=3 true=3 lat=1917ms
+      teaching::0050 FR    pred=3 true=3 lat=1672ms
+      teaching::0050 GR    pred=3 true=3 lat=1732ms
+      teaching::0050 GACA  pred=18 true=3 lat=2328ms
+      teaching::0070 VL    pred=8 true=23 lat=1975ms
+      teaching::0070 FR    pred=17 true=23 lat=2315ms
+      teaching::0070 GR    pred=11 true=23 lat=1835ms
+      teaching::0070 GACA  pred=8 true=23 lat=2542ms
+      teaching::0090 VL    pred=19 true=19 lat=1944ms
+      teaching::0090 FR    pred=19 true=19 lat=1534ms
+      teaching::0090 GR    pred=19 true=19 lat=1710ms
+      teaching::0090 GACA  pred=19 true=19 lat=2739ms
+      teaching::0011 VL    pred=19 true=12 lat=1513ms
+      teaching::0011 FR    pred=19 true=12 lat=2499ms
+      teaching::0011 GR    pred=19 true=12 lat=1554ms
+      teaching::0011 GACA  pred=12 true=12 lat=2591ms
+      teaching::0031 VL    pred=11 true=8 lat=1506ms
+      teaching::0031 FR    pred=11 true=8 lat=1645ms
+      teaching::0031 GR    pred=11 true=8 lat=1655ms
+      teaching::0031 GACA  pred=11 true=8 lat=2098ms
+      teaching::0051 VL    pred=4 true=4 lat=2271ms
+      teaching::0051 FR    pred=4 true=4 lat=1396ms
+      teaching::0051 GR    pred=4 true=4 lat=2042ms
+      teaching::0051 GACA  pred=4 true=4 lat=2410ms
+      teaching::0071 VL    pred=11 true=24 lat=1562ms
+      teaching::0071 FR    pred=11 true=24 lat=1492ms
+      teaching::0071 GR    pred=11 true=24 lat=1656ms
+      teaching::0071 GACA  pred=11 true=24 lat=2445ms
+      teaching::0091 VL    pred=20 true=20 lat=1730ms
+      teaching::0091 FR    pred=20 true=20 lat=2023ms
+      teaching::0091 GR    pred=20 true=20 lat=1711ms
+      teaching::0091 GACA  pred=20 true=20 lat=2537ms
+      teaching::0012 VL    pred=19 true=13 lat=1648ms
+      teaching::0012 FR    pred=19 true=13 lat=1577ms
+      teaching::0012 GR    pred=19 true=13 lat=1602ms
+      teaching::0012 GACA  pred=19 true=13 lat=2140ms
+      teaching::0032 VL    pred=1 true=9 lat=1745ms
+      teaching::0032 FR    pred=1 true=9 lat=1547ms
+      teaching::0032 GR    pred=1 true=9 lat=1521ms
+      teaching::0032 GACA  pred=10 true=9 lat=2091ms
+      teaching::0052 VL    pred=5 true=5 lat=1643ms
+      teaching::0052 FR    pred=5 true=5 lat=1739ms
+      teaching::0052 GR    pred=5 true=5 lat=1960ms
+      teaching::0052 GACA  pred=5 true=5 lat=2133ms
+      teaching::0072 VL    pred=1 true=1 lat=1809ms
+      teaching::0072 FR    pred=11 true=1 lat=1317ms
+      teaching::0072 GR    pred=11 true=1 lat=1603ms
+      teaching::0072 GACA  pred=11 true=1 lat=1908ms
+      teaching::0092 VL    pred=21 true=21 lat=1825ms
+      teaching::0092 FR    pred=21 true=21 lat=1781ms
+      teaching::0092 GR    pred=21 true=21 lat=1824ms
+      teaching::0092 GACA  pred=21 true=21 lat=2056ms
+      teaching::0013 VL    pred=14 true=14 lat=1811ms
+      teaching::0013 FR    pred=14 true=14 lat=1821ms
+      teaching::0013 GR    pred=14 true=14 lat=1749ms
+      teaching::0013 GACA  pred=14 true=14 lat=2441ms
+      teaching::0033 VL    pred=10 true=10 lat=1844ms
+      teaching::0033 FR    pred=9 true=10 lat=1686ms
+      teaching::0033 GR    pred=10 true=10 lat=1398ms
+      teaching::0033 GACA  pred=10 true=10 lat=1837ms
+      teaching::0053 VL    pred=5 true=6 lat=1537ms
+      teaching::0053 FR    pred=5 true=6 lat=1662ms
+      teaching::0053 GR    pred=5 true=6 lat=1695ms
+      teaching::0053 GACA  pred=6 true=6 lat=2015ms
+      teaching::0073 VL    pred=1 true=2 lat=1722ms
+      teaching::0073 FR    pred=11 true=2 lat=1598ms
+      teaching::0073 GR    pred=1 true=2 lat=1457ms
+      teaching::0073 GACA  pred=10 true=2 lat=2114ms
+      teaching::0093 VL    pred=5 true=22 lat=1479ms
+      teaching::0093 FR    pred=5 true=22 lat=1782ms
+      teaching::0093 GR    pred=5 true=22 lat=1900ms
+      teaching::0093 GACA  pred=22 true=22 lat=2342ms
+      teaching::0014 VL    pred=5 true=15 lat=1775ms
+      teaching::0014 FR    pred=5 true=15 lat=2082ms
+      teaching::0014 GR    pred=5 true=15 lat=1821ms
+      teaching::0014 GACA  pred=5 true=15 lat=2376ms
+      teaching::0034 VL    pred=11 true=11 lat=1586ms
+      teaching::0034 FR    pred=11 true=11 lat=1539ms
+      teaching::0034 GR    pred=11 true=11 lat=1677ms
+      teaching::0034 GACA  pred=11 true=11 lat=2261ms
+      teaching::0054 VL    pred=11 true=7 lat=1865ms
+      teaching::0054 FR    pred=11 true=7 lat=1701ms
+      teaching::0054 GR    pred=11 true=7 lat=1633ms
+      teaching::0054 GACA  pred=11 true=7 lat=2054ms
+      teaching::0074 VL    pred=3 true=3 lat=2017ms
+      teaching::0074 FR    pred=10 true=3 lat=1388ms
+      teaching::0074 GR    pred=3 true=3 lat=1728ms
+      teaching::0074 GACA  pred=10 true=3 lat=2119ms
+      teaching::0094 VL    pred=5 true=23 lat=1739ms
+      teaching::0094 FR    pred=17 true=23 lat=1636ms
+      teaching::0094 GR    pred=17 true=23 lat=1660ms
+      teaching::0094 GACA  pred=23 true=23 lat=2097ms
+      teaching::0015 VL    pred=11 true=16 lat=1446ms
+      teaching::0015 FR    pred=11 true=16 lat=1426ms
+      teaching::0015 GR    pred=11 true=16 lat=2226ms
+      teaching::0015 GACA  pred=10 true=16 lat=1897ms
+      teaching::0035 VL    pred=19 true=12 lat=1755ms
+      teaching::0035 FR    pred=19 true=12 lat=1400ms
+      teaching::0035 GR    pred=19 true=12 lat=1767ms
+      teaching::0035 GACA  pred=12 true=12 lat=15297ms
+      teaching::0055 VL    pred=11 true=8 lat=1840ms
+      teaching::0055 FR    pred=11 true=8 lat=1431ms
+      teaching::0055 GR    pred=11 true=8 lat=1433ms
+      teaching::0055 GACA  pred=11 true=8 lat=2218ms
+      teaching::0075 VL    pred=4 true=4 lat=1445ms
+      teaching::0075 FR    pred=4 true=4 lat=1666ms
+      teaching::0075 GR    pred=4 true=4 lat=2006ms
+      teaching::0075 GACA  pred=4 true=4 lat=1822ms
+      teaching::0095 VL    pred=11 true=24 lat=1429ms
+      teaching::0095 FR    pred=11 true=24 lat=1346ms
+      teaching::0095 GR    pred=11 true=24 lat=1463ms
+      teaching::0095 GACA  pred=11 true=24 lat=2083ms
+      teaching::0016 VL    pred=17 true=17 lat=1872ms
+      teaching::0016 FR    pred=17 true=17 lat=1622ms
+      teaching::0016 GR    pred=17 true=17 lat=1760ms
+      teaching::0016 GACA  pred=17 true=17 lat=2117ms
+      teaching::0036 VL    pred=17 true=13 lat=1912ms
+      teaching::0036 FR    pred=11 true=13 lat=1499ms
+      teaching::0036 GR    pred=17 true=13 lat=1545ms
+      teaching::0036 GACA  pred=13 true=13 lat=2428ms
+      teaching::0056 VL    pred=9 true=9 lat=1883ms
+      teaching::0056 FR    pred=9 true=9 lat=2277ms
+      teaching::0056 GR    pred=1 true=9 lat=1737ms
+      teaching::0056 GACA  pred=10 true=9 lat=2097ms
+      teaching::0076 VL    pred=5 true=5 lat=1870ms
+      teaching::0076 FR    pred=5 true=5 lat=3181ms
+      teaching::0076 GR    pred=5 true=5 lat=2019ms
+      teaching::0076 GACA  pred=5 true=5 lat=2151ms
+      teaching::0096 VL    pred=1 true=1 lat=2336ms
+      teaching::0096 FR    pred=1 true=1 lat=1792ms
+      teaching::0096 GR    pred=1 true=1 lat=1654ms
+      teaching::0096 GACA  pred=1 true=1 lat=2123ms
+      teaching::0017 VL    pred=18 true=18 lat=1849ms
+      teaching::0017 FR    pred=18 true=18 lat=1344ms
+      teaching::0017 GR    pred=18 true=18 lat=1656ms
+      teaching::0017 GACA  pred=18 true=18 lat=2352ms
+      teaching::0037 VL    pred=14 true=14 lat=1817ms
+      teaching::0037 FR    pred=14 true=14 lat=1815ms
+      teaching::0037 GR    pred=14 true=14 lat=1825ms
+      teaching::0037 GACA  pred=14 true=14 lat=2327ms
+      teaching::0057 VL    pred=1 true=10 lat=1681ms
+      teaching::0057 FR    pred=1 true=10 lat=1565ms
+      teaching::0057 GR    pred=1 true=10 lat=1580ms
+      teaching::0057 GACA  pred=11 true=10 lat=2079ms
+      teaching::0077 VL    pred=17 true=6 lat=1690ms
+      teaching::0077 FR    pred=5 true=6 lat=2470ms
+      teaching::0077 GR    pred=17 true=6 lat=1775ms
+      teaching::0077 GACA  pred=6 true=6 lat=2296ms
+      teaching::0097 VL    pred=10 true=2 lat=1502ms
+      teaching::0097 FR    pred=11 true=2 lat=1398ms
+      teaching::0097 GR    pred=11 true=2 lat=1937ms
+      teaching::0097 GACA  pred=11 true=2 lat=1796ms
+      teaching::0018 VL    pred=19 true=19 lat=1711ms
+      teaching::0018 FR    pred=19 true=19 lat=1666ms
+      teaching::0018 GR    pred=19 true=19 lat=1381ms
+      teaching::0018 GACA  pred=19 true=19 lat=2511ms
+      teaching::0038 VL    pred=5 true=15 lat=1808ms
+      teaching::0038 FR    pred=5 true=15 lat=1900ms
+      teaching::0038 GR    pred=5 true=15 lat=1347ms
+      teaching::0038 GACA  pred=5 true=15 lat=2458ms
+      teaching::0058 VL    pred=11 true=11 lat=1659ms
+      teaching::0058 FR    pred=11 true=11 lat=1668ms
+      teaching::0058 GR    pred=17 true=11 lat=1571ms
+      teaching::0058 GACA  pred=11 true=11 lat=2447ms
+      teaching::0078 VL    pred=7 true=7 lat=1666ms
+      teaching::0078 FR    pred=11 true=7 lat=1345ms
+      teaching::0078 GR    pred=1 true=7 lat=1223ms
+      teaching::0078 GACA  pred=11 true=7 lat=2148ms
+      teaching::0098 VL    pred=3 true=3 lat=1753ms
+      teaching::0098 FR    pred=3 true=3 lat=1766ms
+      teaching::0098 GR    pred=3 true=3 lat=1679ms
+      teaching::0098 GACA  pred=3 true=3 lat=2285ms
+      teaching::0019 VL    pred=20 true=20 lat=1565ms
+      teaching::0019 FR    pred=20 true=20 lat=1634ms
+      teaching::0019 GR    pred=20 true=20 lat=1380ms
+      teaching::0019 GACA  pred=20 true=20 lat=2645ms
+      teaching::0039 VL    pred=16 true=16 lat=1641ms
+      teaching::0039 FR    pred=10 true=16 lat=1439ms
+      teaching::0039 GR    pred=20 true=16 lat=1765ms
+      teaching::0039 GACA  pred=10 true=16 lat=2199ms
+      teaching::0059 VL    pred=24 true=12 lat=1469ms
+      teaching::0059 FR    pred=24 true=12 lat=1364ms
+      teaching::0059 GR    pred=19 true=12 lat=2059ms
+      teaching::0059 GACA  pred=12 true=12 lat=2142ms
+      teaching::0079 VL    pred=11 true=8 lat=1547ms
+      teaching::0079 FR    pred=11 true=8 lat=1378ms
+      teaching::0079 GR    pred=11 true=8 lat=1773ms
+      teaching::0079 GACA  pred=11 true=8 lat=2018ms
+      teaching::0099 VL    pred=4 true=4 lat=1703ms
+      teaching::0099 FR    pred=4 true=4 lat=2103ms
+      teaching::0099 GR    pred=4 true=4 lat=1680ms
+      teaching::0099 GACA  pred=4 true=4 lat=2305ms
+Done. Results in results_main.jsonl
