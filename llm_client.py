@@ -27,6 +27,7 @@ MODEL = os.environ.get("GACA_MODEL", "gpt-4o-mini")
 TEMPERATURE = 0.2
 MAX_TOKENS = 500
 MAX_RETRIES = 5
+REQUEST_TIMEOUT_SECONDS = float(os.environ.get("GACA_REQUEST_TIMEOUT_SECONDS", "60"))
 
 
 def _token_param_name(model: str) -> str:
@@ -88,7 +89,7 @@ def chat_json(system: str, user: str, *, model: str = MODEL, temperature: float 
                     {"role": "user", "content": user_msg},
                 ],
             }
-            resp = _client.chat.completions.create(**kwargs)
+            resp = _client.chat.completions.create(**kwargs, timeout=REQUEST_TIMEOUT_SECONDS)
             latency_ms = (time.perf_counter() - t0) * 1000
             content = resp.choices[0].message.content
             out = json.loads(content)

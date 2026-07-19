@@ -11,13 +11,16 @@ The repository is intended to let reviewers and readers inspect and recompute ev
 - `corpus.jsonl`: 300 synthetic interaction records, 100 each for teaching, healthcare, and customer service.
 - `results_main.jsonl`: 1,200 main-condition result rows, 300 interactions x 4 conditions.
 - `results_ablation.jsonl`: 1,500 ablation result rows, 300 interactions x 5 configurations.
+- `results_sensitivity.jsonl`: 1,200 degraded-input sensitivity result rows, 300 interactions x 4 GACA-only degradation configurations.
 - `results_scalability.jsonl`: 5 scalability-sweep result rows.
 - `analysis_report.json`: output of `analyze.py`, used as the source for manuscript tables.
+- `sensitivity_report.json`: output of `analyze_sensitivity.py`, used as the source for the degraded-input sensitivity table.
 - `corpus_gen.py`: synthetic corpus generator.
 - `kg.py`, `ontology.py`, `retrieval.py`, `taxonomy.py`: graph schema, ontology, retrieval, and taxonomy code.
 - `prompts.py`, `rules.py`, `llm_client.py`: prompt templates, rule templates/checker, and LLM client.
 - `run_conditions.py`, `run_ablations.py`, `run_scalability.py`: experiment runners.
-- `analyze.py`: analysis script that recomputes report metrics from JSONL logs.
+- `run_sensitivity.py`: degraded-input sensitivity runner.
+- `analyze.py`, `analyze_sensitivity.py`: analysis scripts that recompute report metrics from JSONL logs.
 - `run_*_stdout*.txt`, `analyze_stdout*.txt`: captured terminal output from the executed runs.
 
 ## Executed Run
@@ -30,6 +33,11 @@ The logged results in this repository were produced with:
 - Run date: 2026-07-19
 - Mock mode: false for all reported result rows
 
+The degraded-input sensitivity run was added after the original v2 submission
+release in response to reviewer/editor requests for failure-condition analysis.
+It was also executed with the OpenAI API using `gpt-5.4-mini`, and produced
+1,200 non-mock rows.
+
 The final integrity checks for the included artifacts were:
 
 ```text
@@ -37,10 +45,12 @@ The final integrity checks for the included artifacts were:
     1200 results_main.jsonl
     1500 results_ablation.jsonl
        5 results_scalability.jsonl
-    3005 total
+    1200 results_sensitivity.jsonl
+    4205 total
 
 results_main.jsonl:0
 results_ablation.jsonl:0
+results_sensitivity.jsonl:0
 mock rows: 0
 any_mock in GACA: False
 ```
@@ -84,8 +94,10 @@ python3 kg.py
 python3 corpus_gen.py --all --n 100
 python3 run_conditions.py
 python3 run_ablations.py
+python3 run_sensitivity.py
 python3 run_scalability.py --domain healthcare
 python3 analyze.py
+python3 analyze_sensitivity.py
 ```
 
 The runners are checkpointed and resumable.
@@ -95,4 +107,3 @@ The runners are checkpointed and resumable.
 Ground truth in `corpus.jsonl` is produced by construction: each synthetic transcript was generated to embed a pre-selected performance-gap category from the 24-category taxonomy in `taxonomy.py`. Recommendation quality is scored by the disclosed LLM-judge protocol in `prompts.py`, not by human raters.
 
 The corpus-generation model and the tested-condition model were from the same model family in the reported run. This is a disclosed limitation of the included results.
-
